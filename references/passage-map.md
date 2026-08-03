@@ -63,4 +63,21 @@ Only lifetime material is eligible for mapping.
 | Great banquet / excuses of the invited | Luke 14:15–24 (cf. Matthew 22:1–14) | Invitation refused by the first invitees; house filled with the unexpected |
 | Parable of the talents | Matthew 25:14–30 | Entrusted responsibility and final accounting while still in the lifetime discourse |
 
+## Chapter 5: Encounters
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Instruction limiting the Twelve to the lost sheep of the house of Israel | Matthew 10:5–6 | Explicit priority of Israel in the mission charge |
+| Initial response to the Canaanite woman: “I was sent only to the lost sheep of the house of Israel.” | Matthew 15:24 | Stated limitation of his sending |
+| Centurion’s appeal and declaration of authority; Jesus marvels at his faith and heals the servant | Matthew 8:5–13 (// Luke 7:1–10) | Gentile faith recognized as greater than any found in Israel |
+| Canaanite / Syrophoenician woman’s persistence; “great is your faith”; daughter healed | Matthew 15:21–28 (// Mark 7:24–30) | Exception granted on the basis of faith after the priority statement |
+| Conversation with the Samaritan woman at Jacob’s well; living water; “salvation is from the Jews”; self-revelation as Messiah | John 4:5–26 | Extended encounter with a Samaritan; faith and recognition of identity |
+| Zacchaeus the chief tax collector; reception into his house; restoration and “son of Abraham”; “to seek and to save the lost” | Luke 19:1–10 | Encounter with a marginalized Israelite; salvation declared to the house |
+| Woman with a twelve-year discharge of blood touches his garment; “Daughter, your faith has made you well” | Mark 5:25–34 (// Matthew 9:20–22; Luke 8:43–48) | Individual approach in the crowd; faith acknowledged |
+| Raising of Jairus’ daughter; “Do not fear, only believe”; “Talitha cumi” | Mark 5:21–24, 35–43 (// Matthew 9:18–19, 23–26; Luke 8:40–42, 49–56) | Encounter with a synagogue ruler; faith and restoration of the child |
+| Leper approaches: “If you will, you can make me clean”; Jesus touches and cleanses; instruction to show himself to the priest | Mark 1:40–45 (// Matthew 8:1–4; Luke 5:12–16) | Direct approach by an unclean individual; immediate cleansing |
+| Call of Matthew / Levi at the tax booth; table fellowship with tax collectors and sinners; “I came not to call the righteous, but sinners” | Matthew 9:9–13 (// Mark 2:13–17; Luke 5:27–32) | Encounter with tax collectors; defense of association with sinners |
+| Rich young man asks about eternal life; command to sell all and follow; difficulty for the wealthy; “With man it is impossible, but not with God” | Mark 10:17–27 (// Matthew 19:16–26; Luke 18:18–27) | Individual inquiry about inheritance of life; demand of total divestment |
+| Blind Bartimaeus cries out “Son of David, have mercy on me!”; “Your faith has made you well” | Mark 10:46–52 (// Matthew 20:29–34; Luke 18:35–43) | Persistent approach by a blind beggar; faith acknowledged and sight restored |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*

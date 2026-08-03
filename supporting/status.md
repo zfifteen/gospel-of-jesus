@@ -10,7 +10,8 @@
 - **Authority chapter populated** (`book/02-authority.md`) — Issue #4 completed
 - **Ethical Teaching chapter populated** (`book/03-ethical-teaching.md`) — Issue #5 completed
 - **Parables chapter populated** (`book/04-parables.md`) — Issue #6 completed
-- Passage map updated with entries for Chapters 1–4
+- **Encounters chapter populated** (`book/05-encounters.md`) — Issue #7 completed
+- Passage map updated with entries for Chapters 1–5
 
 ## Completed
 
@@ -19,10 +20,11 @@
 - [x] Populate book/02-authority.md (#4)
 - [x] Populate book/03-ethical-teaching.md (#5)
 - [x] Populate book/04-parables.md (#6)
+- [x] Populate book/05-encounters.md (#7)
 
 ## Next Steps
 
-1. Continue systematic collection for remaining chapters (#7–#10)
+1. Continue systematic collection for remaining chapters (#8–#10)
 2. Expand `references/passage-map.md` as content is added (#11)
 3. Maintain the exclusion log whenever boundary questions arise (#13)
 4. Develop chronology notes (#12)
