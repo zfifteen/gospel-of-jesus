@@ -192,7 +192,6 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Matthew 8:1–4 | 5. Encounters |
 | Matthew 8:5–13 | 5. Encounters |
 | Matthew 8:19–22 | 6. Discipleship |
-| Matthew 8:19–22 | 6. Discipleship |
 | Matthew 9:2–8 | 2. Authority |
 | Matthew 9:9–13 | 5. Encounters / 6. Discipleship |
 | Matthew 9:18–19, 23–26 | 5. Encounters |
@@ -260,6 +259,7 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Mark 1:23–27 | 2. Authority |
 | Mark 1:32–34 | 2. Authority |
 | Mark 1:38 | 1. Core Proclamation |
+| Mark 1:40–45 | 5. Encounters |
 | Mark 1:40–45 | 5. Encounters |
 | Mark 2:5–12 | 2. Authority |
 | Mark 2:13–17 | 5. Encounters |
