@@ -80,4 +80,21 @@ Only lifetime material is eligible for mapping.
 | Rich young man asks about eternal life; command to sell all and follow; difficulty for the wealthy; “With man it is impossible, but not with God” | Mark 10:17–27 (// Matthew 19:16–26; Luke 18:18–27) | Individual inquiry about inheritance of life; demand of total divestment |
 | Blind Bartimaeus cries out “Son of David, have mercy on me!”; “Your faith has made you well” | Mark 10:46–52 (// Matthew 20:29–34; Luke 18:35–43) | Persistent approach by a blind beggar; faith acknowledged and sight restored |
 
+## Chapter 6: Discipleship
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Call of Simon and Andrew; “Follow me, and I will make you become fishers of men.” | Mark 1:16–18 (// Matthew 4:18–20) | Initial call of the first disciples by the sea |
+| Call of James and John; they leave their father and the boat | Mark 1:19–20 (// Matthew 4:21–22) | Immediate response of the sons of Zebedee |
+| Call of Matthew / Levi at the tax booth; “Follow me.” | Matthew 9:9 (// Mark 2:14; Luke 5:27–28) | Call of the tax collector |
+| “If anyone would come after me, let him deny himself and take up his cross and follow me... whoever loses his life for my sake... will save it.” | Mark 8:34–37 (// Matthew 16:24–26; Luke 9:23–25) | Core teaching on self-denial and the cost of following, given to the crowd and disciples |
+| Parallel with “take up his cross daily” | Luke 9:23 | Lukan form emphasizing the daily character of the demand |
+| “If anyone comes to me and does not hate his own father and mother... cannot be my disciple... renounce all that he has” | Luke 14:25–33 | Teaching to the crowds on the absolute priority of discipleship and counting the cost |
+| “Whoever loves father or mother more than me is not worthy of me... take his cross and follow me” | Matthew 10:37–39 | Parallel statement of allegiance priority and the finding/losing of life |
+| Would-be followers: foxes have holes; leave the dead to bury their dead; hand to the plow | Luke 9:57–62 (// Matthew 8:19–22) | Responses to three would-be disciples illustrating the demands of following |
+| Peter’s statement of having left everything; promise of hundredfold return with persecutions and eternal life | Mark 10:28–31 (// Matthew 19:27–30; Luke 18:28–30) | Exchange after the rich young man; assurance to those who have left all |
+| Teaching on greatness: rulers of the Gentiles lord it over; among you the great must be servant; Son of Man came to serve | Mark 10:42–45 (// Matthew 20:25–28; Luke 22:25–27) | Instruction following the request of James and John for places of honor |
+| “Who is my mother, and who are my brothers?”; “whoever does the will of my Father in heaven is my brother and sister and mother” | Matthew 12:46–50 (// Mark 3:31–35; Luke 8:19–21) | Redefinition of family around doing the will of the Father |
+| “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father” | Matthew 7:21 | Distinction between verbal profession and doing the Father’s will |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
