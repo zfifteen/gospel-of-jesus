@@ -12,7 +12,8 @@
 - **Parables chapter populated** (`book/04-parables.md`) — Issue #6 completed
 - **Encounters chapter populated** (`book/05-encounters.md`) — Issue #7 completed
 - **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed
-- Passage map updated with entries for Chapters 1–6
+- **Conflict chapter populated** (`book/07-conflict.md`) — Issue #9 completed
+- Passage map updated with entries for Chapters 1–7
 
 ## Completed
 
@@ -23,10 +24,12 @@
 - [x] Populate book/04-parables.md (#6)
 - [x] Populate book/05-encounters.md (#7)
 - [x] Populate book/06-discipleship.md (#8)
+- [x] Populate book/07-conflict.md (#9)
 
 ## Next Steps
 
-1. Continue systematic collection for remaining chapters (#9–#10)
-2. Expand `references/passage-map.md` as content is added (#11)
+1. Populate the Final Days chapter (#10)
+2. Expand `references/passage-map.md` as remaining content is added (#11)
 3. Maintain the exclusion log whenever boundary questions arise (#13)
 4. Develop chronology notes (#12)
+5. Final boundary and consistency review (#14)

@@ -97,4 +97,18 @@ Only lifetime material is eligible for mapping.
 | “Who is my mother, and who are my brothers?”; “whoever does the will of my Father in heaven is my brother and sister and mother” | Matthew 12:46–50 (// Mark 3:31–35; Luke 8:19–21) | Redefinition of family around doing the will of the Father |
 | “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father” | Matthew 7:21 | Distinction between verbal profession and doing the Father’s will |
 
+## Chapter 7: Conflict
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Reading of Isaiah in Nazareth synagogue; “Today this Scripture has been fulfilled in your hearing”; rejection and attempt to throw him from the cliff | Luke 4:16–30 | Hometown rejection after the claim of fulfillment |
+| Accusation “He is possessed by Beelzebul” / “by the prince of demons he casts out the demons”; response on divided kingdom/house; binding the strong man; warning about blasphemy against the Holy Spirit | Mark 3:22–30 (// Matthew 12:24–32) | Direct confrontation over the source of his power to cast out demons |
+| Challenge over unwashed hands and the tradition of the elders; citation of Isaiah; Corban example; declaration that what comes out of the heart defiles | Mark 7:1–23 (// Matthew 15:1–20) | Conflict over human tradition versus the commandment of God; internal source of defilement |
+| Demand for a sign; “An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah”; Nineveh and queen of the South as witnesses | Matthew 12:38–42 (// Luke 11:29–32) | Refusal of a sign on demand; judgment comparison with repentant Gentiles |
+| Woes to the scribes and Pharisees: heavy burdens, show of piety, shutting the kingdom, proselytes, oath casuistry, neglect of justice/mercy/faithfulness, external cleansing, whitewashed tombs, building tombs of the prophets | Matthew 23:1–36 (cf. Luke 11:37–54) | Extended public confrontation with the religious leaders over hypocrisy and obstruction |
+| Challenge to Jesus’ authority in the temple; counter-question about John’s baptism; refusal to answer when they decline | Mark 11:27–33 (// Matthew 21:23–27; Luke 20:1–8) | Direct confrontation over the source of his authority |
+| Trap question about taxes to Caesar; “Render to Caesar the things that are Caesar’s, and to God the things that are God’s” | Mark 12:13–17 (// Matthew 22:15–22; Luke 20:20–26) | Attempted political and religious trap; response distinguishing the two spheres |
+| Sadducees’ question about the resurrection and the seven brothers; “You know neither the Scriptures nor the power of God”; God of the living | Mark 12:18–27 (// Matthew 22:23–33; Luke 20:27–40) | Doctrinal confrontation with those who deny resurrection |
+| Warning to beware of the scribes who seek honor, devour widows’ houses, and make long prayers for pretense; greater condemnation | Mark 12:38–40 (// Luke 20:45–47) | Public warning about the scribes’ conduct |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
