@@ -1,11 +1,11 @@
 # Red-Letter Inventory: Lifetime Spoken Words of Jesus
 
-This document inventories every major distinct saying / speech unit attributed to Jesus in the pre-crucifixion portions of the four Gospels. It serves as the master reference for completeness work under Issue #17.
+This document inventories every major distinct saying / speech unit attributed to Jesus while he was still alive (up to the moment of death). It serves as the master reference for completeness work under Issue #17, with boundary correction under Issue #30.
 
-**Scope rules (from methodology and Issue #18):**
-- Only material narrated as spoken by Jesus while still alive (before the crucifixion).
-- Includes extended discourses, short sayings, dialogue replies, prayers spoken aloud, private instruction, public teaching, confrontations, last meal, Gethsemane, and trial statements up to delivery to crucifixion.
-- Excludes post-crucifixion speech and non-speech narrative.
+**Scope rules (from methodology, Issue #18, and boundary correction #30):**
+- Only material narrated as spoken by Jesus while still alive (up to and including the moment of death).
+- Includes extended discourses, short sayings, dialogue replies, prayers spoken aloud, private instruction, public teaching, confrontations, last meal, Gethsemane, trial statements, and the words spoken from the cross.
+- Excludes everything after the moment of death and non-speech narrative.
 
 **Status values:**
 - `present in full` — fully included (or closely rendered) in one or more book chapters and mapped in `passage-map.md`
@@ -17,6 +17,8 @@ This document inventories every major distinct saying / speech unit attributed t
 **Update note (Issue #20, 2026-08-03):** Priority missing units from the gap analysis have been integrated into the thematic chapters (Ethical Teaching, Parables, Discipleship). Remaining extensive Johannine discourses and selected other units carry explicit exclusion rationales in `references/exclusions.md` under the red-letter completeness workstream. This meets the “present in full or explicit exclusion rationale” criterion.
 
 **Update note (Issue #21, 2026-08-03):** `references/passage-map.md` fully updated with complete mapping for all integrated material. Exclusions log confirmed current. Inventory statuses remain accurate. Traceability requirement satisfied.
+
+**Update note (Issue #30, 2026-08-03):** Chronological boundary corrected to include all pre-death material. The seven traditional words from the cross are now present in full in Chapter 8 and mapped.
 
 **Gap analysis:** A complete classification of every item against the current book and passage map is recorded in [`references/gap-analysis.md`](gap-analysis.md) (Issue #19).
 
@@ -119,7 +121,7 @@ This document inventories every major distinct saying / speech unit attributed t
 | Matt 18:15–20 | — | Binding and loosing; where two or three are gathered | excluded (logged) |
 | Matt 18:21–22 | — | Forgive seventy-seven times | present in full (via Unforgiving Servant) |
 
-## 5. Johannine Lifetime Material (Selected Pre-Crucifixion)
+## 5. Johannine Lifetime Material (Selected Pre-Death)
 
 | Primary | Parallels | Description / Opening | Status |
 |---------|-----------|-----------------------|--------|
@@ -177,7 +179,7 @@ This document inventories every major distinct saying / speech unit attributed t
 | Matt 25:1–13 | — | Ten virgins | present in full |
 | Matt 25:31–46 | — | Sheep and goats | present in full |
 
-## 8. Final Days: Last Meal, Gethsemane, Arrest, Trial
+## 8. Final Days: Last Meal, Gethsemane, Arrest, Trial, and Words from the Cross
 
 | Primary | Parallels | Description / Opening | Status |
 |---------|-----------|-----------------------|--------|
@@ -195,6 +197,13 @@ This document inventories every major distinct saying / speech unit attributed t
 | Mark 14:43–50 | Matt 26:47–56; Luke 22:47–53 | Arrest: “Have you come out as against a robber…?” | present in full |
 | Mark 14:53–65 | Matt 26:57–68 | Trial before the high priest: “I am, and you will see the Son of Man…” | present in full |
 | Mark 15:1–15 | Matt 27:1–26; Luke 23:1–25 | Before Pilate: “You have said so.”; delivery to be crucified | present in full |
+| Luke 23:34 | — | “Father, forgive them, for they know not what they do.” | present in full |
+| Luke 23:43 | — | “Truly, I say to you, today you will be with me in paradise.” | present in full |
+| John 19:26–27 | — | “Woman, behold, your son!” / “Behold, your mother!” | present in full |
+| Matt 27:46 // Mark 15:34 | — | “My God, my God, why have you forsaken me?” | present in full |
+| John 19:28 | — | “I thirst.” | present in full |
+| John 19:30 | — | “It is finished.” | present in full |
+| Luke 23:46 | — | “Father, into your hands I commit my spirit!” | present in full |
 
 ## 9. Additional Notable Short Sayings and Encounters
 
@@ -232,14 +241,15 @@ This document inventories every major distinct saying / speech unit attributed t
 
 - This inventory prioritizes **distinct speech units** and major discourses rather than every isolated clause. Short replies embedded in longer narratives are generally captured under the parent unit or listed when they carry independent weight.
 - Parallel accounts are consolidated under a primary reference with parallels noted; the status reflects presence of the substance of the saying in the book.
-- Johannine material is treated carefully: only clearly pre-crucifixion scenes are included. The extensive Farewell Discourse (John 14–17) occurs before the arrest and is therefore lifetime material under the project’s chronological rule; under Issue #20 these and related extended units are logged as excluded with rationale in `exclusions.md` to preserve thematic coherence.
+- Johannine material is treated carefully: only clearly pre-death scenes are included. The extensive Farewell Discourse (John 14–17) occurs before the arrest and is therefore lifetime material under the project’s chronological rule; under Issue #20 these and related extended units are logged as excluded with rationale in `exclusions.md` to preserve thematic coherence.
 - Status judgments are based on cross-reference against `references/passage-map.md` and the content of `book/01-*.md` through `book/08-*.md`.
 - Edge cases (e.g., passion predictions, Transfiguration voice, certain “I am” statements) are included because they are narrated as occurring while Jesus is alive and speaking; many are now under explicit exclusion log for coherence.
+- **Boundary correction (Issue #30):** The seven traditional words from the cross are now present in full. Everything after the moment of death remains excluded.
 
-## Completion of Issues #20 and #21
+## Completion of Issues #20, #21, and #30
 
-Priority high-visibility missing units have been integrated. Remaining items carry explicit exclusion rationales. Thematic coherence preserved. No post-crucifixion content introduced. Style consistent with locked methodology. Passage map and supporting references are now fully aligned.
+Priority high-visibility missing units have been integrated. Remaining items carry explicit exclusion rationales. Thematic coherence preserved. No post-death content introduced. Style consistent with locked methodology. Passage map and supporting references are now fully aligned with the corrected pre-death boundary.
 
 ---
 
-*Inventory created 2026-08-03 in fulfillment of Issue #18. Gap analysis linked 2026-08-03 (Issue #19). Statuses and exclusion notes updated 2026-08-03 in fulfillment of Issue #20. Reference alignment confirmed 2026-08-03 in fulfillment of Issue #21.*
+*Inventory created 2026-08-03 in fulfillment of Issue #18. Gap analysis linked 2026-08-03 (Issue #19). Statuses and exclusion notes updated 2026-08-03 in fulfillment of Issue #20. Reference alignment confirmed 2026-08-03 in fulfillment of Issue #21. Boundary correction and words-from-the-cross integration completed 2026-08-03 in fulfillment of Issue #30.*
