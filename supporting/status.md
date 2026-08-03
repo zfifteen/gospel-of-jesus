@@ -16,6 +16,7 @@
 - **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
 - Passage map updated with entries for Chapters 1–8
 - **Chronology notes developed** (`references/chronology.md`) — Issue #12 completed
+- **Final boundary and consistency review completed** — Issue #14 completed
 
 ## Completed
 
@@ -29,10 +30,10 @@
 - [x] Populate book/07-conflict.md (#9)
 - [x] Populate book/08-final-days.md (#10)
 - [x] Develop references/chronology.md (#12)
+- [x] Final boundary and consistency review (#14)
 
 ## Next Steps
 
-1. Expand and finalize `references/passage-map.md` completeness check (#11)
+1. Expand and finalize `references/passage-map.md` completeness check (#11) — note: map already maps all items in Chapters 1–8; formal completeness verification remains
 2. Maintain the exclusion log whenever boundary questions arise (#13)
-3. Final boundary and consistency review (#14)
-4. Update status and close project (#15)
+3. Update status and close project (#15)
