@@ -260,7 +260,6 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Mark 1:32–34 | 2. Authority |
 | Mark 1:38 | 1. Core Proclamation |
 | Mark 1:40–45 | 5. Encounters |
-| Mark 1:40–45 | 5. Encounters |
 | Mark 2:5–12 | 2. Authority |
 | Mark 2:13–17 | 5. Encounters |
 | Mark 2:14 | 6. Discipleship |
