@@ -8,6 +8,20 @@ The sole objective is to collect and organize what Jesus himself said and did wh
 
 No material that originated after the crucifixion is permitted.
 
+## Table of Contents (Book)
+
+A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
+
+- [Preface](book/00-preface.md)
+- [1. Core Proclamation](book/01-core-proclamation.md)
+- [2. Authority](book/02-authority.md)
+- [3. Ethical Teaching](book/03-ethical-teaching.md)
+- [4. Parables](book/04-parables.md)
+- [5. Encounters](book/05-encounters.md)
+- [6. Discipleship](book/06-discipleship.md)
+- [7. Conflict](book/07-conflict.md)
+- [8. Final Days](book/08-final-days.md)
+
 ## Strict Scope Boundaries
 
 ### Included
@@ -48,6 +62,7 @@ Key observations drawn strictly from the lifetime record include:
 gospel-of-jesus/
 ├── README.md                      # Project intent and hard boundaries
 ├── book/                          # THE MAIN BOOK
+│   ├── 00-toc.md                  # Table of Contents
 │   ├── 00-preface.md
 │   ├── 01-core-proclamation.md
 │   ├── 02-authority.md
@@ -71,7 +86,7 @@ gospel-of-jesus/
 ### Role of each directory
 
 - **`book/`**  
-  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions.
+  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions. A table of contents (`00-toc.md`) provides navigation.
 
 - **`references/`**  
   Holds supporting documentation that protects the boundary: source mapping, chronological decisions, a running log of exclusions, the red-letter inventory, and gap analysis.
