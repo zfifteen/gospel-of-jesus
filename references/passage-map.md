@@ -1,14 +1,16 @@
 # Passage Map
 
-This document maps every saying and action included in the main book back to its location in the pre-crucifixion narrative.
+This document maps every saying and action included in the main book back to its location in the pre-death narrative.
 
-Only lifetime material is eligible for mapping.
+Only lifetime material (while Jesus was still alive) is eligible for mapping.
 
 **Update note (Issue #21, 2026-08-03):** Entries added/expanded for every newly integrated or previously incomplete lifetime saying brought in under Issue #20. The map now provides complete traceability for all material present in the book chapters after the red-letter completeness integration pass.
 
 **Update note (Issue #28, 2026-08-03):** A reverse (biblical-reference-ordered) index has been added at the end of this document to allow lookup by known Gospel passage.
 
 **Update note (Issue #23, 2026-08-03):** Chapter 1 entries refined to reflect the expanded direct-quotation rendering of the same source material (no new passages added).
+
+**Update note (Issue #30, 2026-08-03):** Boundary corrected to include all sayings while Jesus was still alive (up to the moment of death). Seven words from the cross added to Chapter 8 mapping and reverse index.
 
 ## Chapter 1: Core Proclamation
 
@@ -154,9 +156,16 @@ Only lifetime material is eligible for mapping.
 | Prayer in Gethsemane: “Abba, Father... Remove this cup from me. Yet not what I will, but what you will”; threefold finding of the disciples sleeping; “The hour has come. The Son of Man is betrayed...” | Mark 14:32–42 (// Matthew 26:36–46; Luke 22:39–46) | Private distress and prayer immediately before the arrest |
 | Arrival of Judas with the crowd; the kiss; seizure; cutting off of the servant’s ear; “Have you come out as against a robber... Day after day I was with you in the temple teaching... But let the Scriptures be fulfilled”; flight of the disciples | Mark 14:43–50 (// Matthew 26:47–56; Luke 22:47–53) | Arrest while Jesus was still alive |
 | Appearance before the high priest and council; silence under false testimony; answer “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven”; condemnation as deserving death | Mark 14:53–65 (// Matthew 26:57–68) | Trial before the Jewish authorities while still alive |
-| Delivery to Pilate; “Are you the King of the Jews?” / “You have said so”; silence under further accusation; choice of Barabbas; delivery to be crucified | Mark 15:1–15 (// Matthew 27:1–26; Luke 23:1–25) | Roman trial and decision while Jesus was still alive; account ends at the point of delivery to be crucified |
+| Delivery to Pilate; “Are you the King of the Jews?” / “You have said so”; silence under further accusation; choice of Barabbas; delivery to be crucified | Mark 15:1–15 (// Matthew 27:1–26; Luke 23:1–25) | Roman trial and decision while Jesus was still alive |
+| “Father, forgive them, for they know not what they do.” | Luke 23:34 | Spoken from the cross while still alive |
+| “Truly, I say to you, today you will be with me in paradise.” | Luke 23:43 | Spoken to the repentant criminal while on the cross |
+| “Woman, behold, your son!” / “Behold, your mother!” | John 19:26–27 | Spoken to Mary and the beloved disciple while on the cross |
+| “My God, my God, why have you forsaken me?” | Matthew 27:46 // Mark 15:34 | Cry from the cross near the ninth hour |
+| “I thirst.” | John 19:28 | Spoken from the cross while still alive |
+| “It is finished.” | John 19:30 | Spoken from the cross immediately before death |
+| “Father, into your hands I commit my spirit!” | Luke 23:46 | Final saying before death |
 
-*All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
+*All mapped items are drawn exclusively from material narrated as occurring while Jesus was still alive (up to the moment of death).*
 
 ---
 
@@ -247,6 +256,7 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Matthew 26:47–56 | 8. Final Days |
 | Matthew 26:57–68 | 8. Final Days |
 | Matthew 27:1–26 | 8. Final Days |
+| Matthew 27:46 | 8. Final Days |
 
 ### Mark
 
@@ -300,6 +310,7 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Mark 14:43–50 | 8. Final Days |
 | Mark 14:53–65 | 8. Final Days |
 | Mark 15:1–15 | 8. Final Days |
+| Mark 15:34 | 8. Final Days |
 
 ### Luke
 
@@ -366,11 +377,17 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Luke 22:39–46 | 8. Final Days |
 | Luke 22:47–53 | 8. Final Days |
 | Luke 23:1–25 | 8. Final Days |
+| Luke 23:34 | 8. Final Days |
+| Luke 23:43 | 8. Final Days |
+| Luke 23:46 | 8. Final Days |
 
 ### John
 
 | Biblical Reference | Chapter in this book |
 |--------------------|----------------------|
 | John 4:5–26 | 5. Encounters |
+| John 19:26–27 | 8. Final Days |
+| John 19:28 | 8. Final Days |
+| John 19:30 | 8. Final Days |
 
-*Note: Extensive Johannine discourses that remain outside the present compilation carry explicit exclusion rationales in `references/exclusions.md` and are therefore omitted from both the chapter map and this reverse index.*
+*Note: Extensive Johannine discourses that remain outside the present compilation carry explicit exclusion rationales in `references/exclusions.md` and are therefore omitted from both the chapter map and this reverse index. The words from the cross (John 19:26–30) are now included under the corrected pre-death boundary (Issue #30).*
