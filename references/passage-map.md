@@ -29,4 +29,21 @@ Only lifetime material is eligible for mapping.
 | “All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.” | Matthew 11:27 (// Luke 10:22) | Unique mutual knowledge and authority granted by the Father |
 | Antitheses: “You have heard that it was said... But I say to you...” (anger, lust, divorce, oaths, retaliation, love of enemies) | Matthew 5:21–48 | Decisive personal authority in interpreting and intensifying the Law |
 
+## Chapter 3: Ethical Teaching
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Beatitudes: poor in spirit, those who mourn, the meek, those who hunger and thirst for righteousness, the merciful, the pure in heart, the peacemakers, the persecuted | Matthew 5:3–12 (// Luke 6:20–23) | Opening description of the character of those who belong to the kingdom |
+| Corresponding woes to the rich, the full, and those spoken well of | Luke 6:24–26 | Parallel Lukan form of the same teaching |
+| “You are the salt of the earth... You are the light of the world...” | Matthew 5:13–16 | Identity and responsibility of the disciples |
+| Love of enemies, pray for persecutors, be perfect as the Father is perfect | Matthew 5:43–48 | Explicit intensification of the command to love |
+| Love enemies, do good to those who hate you, golden rule | Luke 6:27–36 | Parallel expansion of the same ethical demand |
+| “Judge not, that you be not judged... first take the log out of your own eye” | Matthew 7:1–5 (// Luke 6:37–42) | Warning against hypocritical judgment |
+| “Be merciful, even as your Father is merciful.” | Luke 6:36 | Direct call to imitate the Father’s mercy |
+| Do not lay up treasures on earth; cannot serve God and money; do not be anxious; seek first the kingdom | Matthew 6:19–34 | Teaching on treasure, divided loyalty, and freedom from anxiety |
+| Ask, seek, knock; the Father gives good gifts | Matthew 7:7–11 | Invitation to petition and trust |
+| Enter by the narrow gate | Matthew 7:13–14 | The demanding character of the way that leads to life |
+| Hearers who do the words are like the wise man who built on the rock; those who do not are like the foolish man on sand | Matthew 7:24–27 (// Luke 6:46–49) | Final demand that hearing must issue in doing |
+| The two greatest commandments: love God with all heart, soul, mind, and strength; love neighbor as oneself | Mark 12:28–34 (// Matthew 22:34–40; Luke 10:25–28) | Summary of the Law given in response to a question while Jesus was teaching in the temple area |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
