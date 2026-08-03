@@ -46,4 +46,21 @@ Only lifetime material is eligible for mapping.
 | Hearers who do the words are like the wise man who built on the rock; those who do not are like the foolish man on sand | Matthew 7:24–27 (// Luke 6:46–49) | Final demand that hearing must issue in doing |
 | The two greatest commandments: love God with all heart, soul, mind, and strength; love neighbor as oneself | Mark 12:28–34 (// Matthew 22:34–40; Luke 10:25–28) | Summary of the Law given in response to a question while Jesus was teaching in the temple area |
 
+## Chapter 4: Parables
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Parable of the Sower (four soils) and its explanation | Matthew 13:3–9, 18–23 (// Mark 4:3–20; Luke 8:5–15) | Nature of the word of the kingdom and differential reception |
+| Mustard seed | Matthew 13:31–32 (// Mark 4:30–32; Luke 13:18–19) | Growth of the kingdom from small beginning |
+| Leaven | Matthew 13:33 (// Luke 13:20–21) | Pervasive, transformative character of the kingdom |
+| Hidden treasure | Matthew 13:44 | Joyful, total response required to obtain the kingdom |
+| Pearl of great price | Matthew 13:45–46 | Same demand of total exchange for the kingdom |
+| Net that gathers fish of every kind | Matthew 13:47–50 | Mixed character of the present gathering; final separation |
+| Lost sheep | Luke 15:3–7 (// Matthew 18:12–14) | Joy in heaven over one repentant sinner |
+| Lost coin | Luke 15:8–10 | Parallel illustration of diligent seeking and joy over recovery |
+| Lost (prodigal) son | Luke 15:11–32 | Father’s welcome of the repentant; contrast with the older son |
+| Workers in the vineyard | Matthew 20:1–16 | Generosity of the master; last first and first last |
+| Great banquet / excuses of the invited | Luke 14:15–24 (cf. Matthew 22:1–14) | Invitation refused by the first invitees; house filled with the unexpected |
+| Parable of the talents | Matthew 25:14–30 | Entrusted responsibility and final accounting while still in the lifetime discourse |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
