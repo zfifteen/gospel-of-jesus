@@ -111,4 +111,21 @@ Only lifetime material is eligible for mapping.
 | Sadducees’ question about the resurrection and the seven brothers; “You know neither the Scriptures nor the power of God”; God of the living | Mark 12:18–27 (// Matthew 22:23–33; Luke 20:27–40) | Doctrinal confrontation with those who deny resurrection |
 | Warning to beware of the scribes who seek honor, devour widows’ houses, and make long prayers for pretense; greater condemnation | Mark 12:38–40 (// Luke 20:45–47) | Public warning about the scribes’ conduct |
 
+## Chapter 8: Final Days
+
+| Item in book | Source location(s) | Notes |
+|--------------|--------------------|-------|
+| Instruction to fetch the colt; entry into Jerusalem on the colt; crowds shouting “Hosanna!”; entry into the temple and departure to Bethany | Mark 11:1–11 (// Matthew 21:1–11; Luke 19:28–40) | Public entry into Jerusalem while still alive |
+| Cursing of the fig tree; driving out those who sold and bought in the temple; “My house shall be called a house of prayer for all the nations”; teaching that astonished the crowd | Mark 11:12–19 (// Matthew 21:12–17; Luke 19:45–48) | Temple cleansing and related actions on the following day |
+| Discovery of the withered fig tree; teaching on faith, prayer, and forgiveness | Mark 11:20–25 | Follow-up to the fig-tree action |
+| Observation of the poor widow putting in two small copper coins; “this poor widow has put in more than all those...” | Mark 12:41–44 (// Luke 21:1–4) | Teaching while sitting opposite the treasury |
+| Prediction that not one stone of the temple buildings will be left upon another; private questions from Peter, James, John, and Andrew on the Mount of Olives | Mark 13:1–4 (// Matthew 24:1–3; Luke 21:5–7) | Setting for the discourse on coming events |
+| Warnings against deception, wars, earthquakes, famines; delivery to councils and synagogues; the gospel first proclaimed to all nations; endurance; the abomination of desolation and flight; tribulation; false christs; cosmic signs; coming of the Son of Man; lesson of the fig tree; “this generation will not pass away”; unknown day and hour; repeated command to stay awake | Mark 13:5–37 (// Matthew 24:4–36; Luke 21:8–36) | Extended teaching given on the Mount of Olives while Jesus was still alive |
+| Anointing with costly ointment of pure nard at Bethany in the house of Simon the leper; defense of the woman; “she has anointed my body beforehand for burial” | Mark 14:3–9 (// Matthew 26:6–13) | Action and saying in the final days before the Passover |
+| Instructions for preparing the Passover; reclining at table; announcement that one of the twelve will betray him; taking of bread (“Take; this is my body”); cup (“This is my blood of the covenant, which is poured out for many”); prediction of falling away and Peter’s denial | Mark 14:12–31 (// Matthew 26:17–35; Luke 22:7–34) | Last meal with the twelve while still alive |
+| Prayer in Gethsemane: “Abba, Father... Remove this cup from me. Yet not what I will, but what you will”; threefold finding of the disciples sleeping; “The hour has come. The Son of Man is betrayed...” | Mark 14:32–42 (// Matthew 26:36–46; Luke 22:39–46) | Private distress and prayer immediately before the arrest |
+| Arrival of Judas with the crowd; the kiss; seizure; cutting off of the servant’s ear; “Have you come out as against a robber... Day after day I was with you in the temple teaching... But let the Scriptures be fulfilled”; flight of the disciples | Mark 14:43–50 (// Matthew 26:47–56; Luke 22:47–53) | Arrest while Jesus was still alive |
+| Appearance before the high priest and council; silence under false testimony; answer “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven”; condemnation as deserving death | Mark 14:53–65 (// Matthew 26:57–68) | Trial before the Jewish authorities while still alive |
+| Delivery to Pilate; “Are you the King of the Jews?” / “You have said so”; silence under further accusation; choice of Barabbas; delivery to be crucified | Mark 15:1–15 (// Matthew 27:1–26; Luke 23:1–25) | Roman trial and decision while Jesus was still alive; account ends at the point of delivery to be crucified |
+
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
