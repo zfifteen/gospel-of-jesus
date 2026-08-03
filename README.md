@@ -6,7 +6,7 @@ This repository exists to assemble a single, self-contained record of the teachi
 
 The sole objective is to collect and organize what Jesus himself said and did while he was alive. The resulting compilation is intended to stand as a book of primary material only.
 
-No material that originated after the crucifixion is permitted.
+No material that occurs after death is permitted.
 
 ## Table of Contents (Book)
 
@@ -33,13 +33,13 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 
 ### Explicitly Excluded
 
-- Any account, appearance, conversation, or commission that occurs after the crucifixion.
+- Any account, appearance, conversation, or commission that occurs after death.
 - All writings, letters, theological reflections, or interpretive frameworks produced by other people (including Paul and every other New Testament author writing after the events).
 - Later ecclesiastical doctrines, creeds, systematic theologies, or denominational traditions.
 - Opinions, commentary, or explanatory notes that originate outside the lifetime material itself.
 - Speculative reconstructions that go beyond what the lifetime narratives record.
 
-The boundary is chronological and authorial: only the living Jesus, only his own speech and deeds as presented in the pre-crucifixion portions of the Gospel accounts.
+The boundary is chronological and authorial: only the living Jesus, only his own speech and deeds as presented in the portions of the Gospel accounts that describe events while he was still alive (up to and including the moment of death).
 
 ## Project Intent in Detail
 
@@ -99,7 +99,7 @@ gospel-of-jesus/
 ## Methodological Rules
 
 1. **Source limitation**  
-   Only material narrated as occurring before the crucifixion is eligible. Post-crucifixion scenes, even if found in the same Gospel documents, are out of scope.
+   Only material narrated as occurring while Jesus was still alive (up to and including the moment of death) is eligible. Scenes that occur after death, even if found in the same Gospel documents, are out of scope.
 
 2. **No secondary voices**  
    The compilation contains Jesus’ words and a minimal narrative frame necessary to make those words and actions intelligible. It does not include the theological commentary of the Gospel writers, the letters of Paul, or any later author.
@@ -108,7 +108,7 @@ gospel-of-jesus/
    The repository does not advance opinions about the meaning, application, or contemporary relevance of the material. Presentation is limited to organization and clear quotation or close paraphrase of the lifetime record.
 
 4. **Transparency of boundaries**  
-   Every section remains traceable to the pre-crucifixion narrative. Where a saying or action is included, its place inside the lifetime chronology is evident.
+   Every section remains traceable to the lifetime narrative (while Jesus was still alive). Where a saying or action is included, its place inside the lifetime chronology is evident.
 
 ## Current Status
 
@@ -129,14 +129,14 @@ gospel-of-jesus/
 - Red-letter final verification and boundary check completed (Issue #22)
 - Status updated and both the original project and the red-letter completeness workstream formally closed
 
-Every inventoried pre-crucifixion saying of Jesus is either fully present in the book or carries an explicit, logged exclusion rationale. No post-crucifixion material is present. Style and thematic organization remain consistent with the locked methodology.
+Every inventoried lifetime saying of Jesus (while still alive, up to the moment of death) is either fully present in the book or carries an explicit, logged exclusion rationale. No material that occurs after death is present. Style and thematic organization remain consistent with the locked methodology.
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 
 ---
 
 **Boundary reminder**  
-If a text, idea, or interpretation cannot be shown to belong to the living Jesus before the crucifixion, it does not belong in this repository.
+If a text, idea, or interpretation cannot be shown to belong to the living Jesus (i.e., before or at the moment of death), it does not belong in this repository.
 
 ## License
 
