@@ -8,6 +8,10 @@ Passing alongside the Sea of Galilee, Jesus saw Simon and Andrew casting a net i
 
 As he passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.
 
+## The Invitation to Rest
+
+“Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”
+
 ## The Demand of Self-Denial and the Cross
 
 Jesus called the crowd to him with his disciples and said to them:
@@ -38,11 +42,17 @@ Yet another said, “I will follow you, Lord, but let me first say farewell to t
 
 Peter began to say to him, “See, we have left everything and followed you.” Jesus said, “Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. But many who are first will be last, and the last first.”
 
-## Greatness Through Service
+## Greatness Through Service and Receiving the Child
 
 Jesus called them to him and said:
 
 “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all. For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
+
+They came to Capernaum. And when he was in the house he asked them, “What were you discussing on the way?” But they kept silent, for on the way they had argued with one another about who was the greatest. And he sat down and called the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.” And he took a child and put him in the midst of them, and taking him in his arms, he said to them, “Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me.”
+
+## Let the Children Come
+
+And they were bringing children to him that he might touch them, and the disciples rebuked them. But when Jesus saw it, he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.” And he took them in his arms and blessed them, laying his hands on them.
 
 ## Who Belongs to Him
 
@@ -51,3 +61,7 @@ While he was still speaking to the people, behold, his mother and his brothers s
 ## The Nature of True Following
 
 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.”
+
+## Whoever Is Not Against Us
+
+John said to him, “Teacher, we saw someone casting out demons in your name, and we tried to stop him, because he was not following us.” But Jesus said, “Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. For the one who is not against us is for us. For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.”
