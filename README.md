@@ -42,6 +42,41 @@ Key observations drawn strictly from the lifetime record include:
 - Faith, not ethnic status, is repeatedly shown as the decisive human response that opens access to what Jesus offered.
 - The content of the announcement remained the nearness of the kingdom and the demand to repent and believe; developed explanations of his death, justification theories, or multi-ethnic church structures lie outside the chronological limit and are therefore excluded.
 
+## Directory Structure
+
+```
+gospel-of-jesus/
+├── README.md                      # Project intent and hard boundaries
+├── book/                          # THE MAIN BOOK
+│   ├── 00-preface.md
+│   ├── 01-core-proclamation.md
+│   ├── 02-authority.md
+│   ├── 03-ethical-teaching.md
+│   ├── 04-parables.md
+│   ├── 05-encounters.md
+│   ├── 06-discipleship.md
+│   ├── 07-conflict.md
+│   └── 08-final-days.md
+├── references/                    # Reference & supporting documentation
+│   ├── passage-map.md             # Maps included material to source locations
+│   ├── chronology.md              # Notes on internal ordering
+│   └── exclusions.md              # Explicit record of what is omitted and why
+└── supporting/                    # Project infrastructure
+    ├── methodology.md             # Detailed inclusion / exclusion rules
+    └── status.md                  # Current progress tracker
+```
+
+### Role of each directory
+
+- **`book/`**  
+  Contains the main compilation. Each file is a thematic chapter. Content will be drawn exclusively from Jesus’ lifetime words and actions.
+
+- **`references/`**  
+  Holds supporting documentation that protects the boundary: source mapping, chronological decisions, and a running log of exclusions.
+
+- **`supporting/`**  
+  Contains the methodological rules that govern the entire project and a simple status file.
+
 ## Methodological Rules
 
 1. **Source limitation**  
@@ -56,29 +91,12 @@ Key observations drawn strictly from the lifetime record include:
 4. **Transparency of boundaries**  
    Every section will remain traceable to the pre-crucifixion narrative. Where a saying or action is included, its place inside the lifetime chronology will be evident.
 
-## Planned Structure (Subject to Refinement)
+## Current Status
 
-- **Core Proclamation**  
-  The repeated announcement of the kingdom of God and the call to repent and believe.
-
-- **Authority and Identity**  
-  Statements and actions in which Jesus exercises or claims unique authority (forgiveness of sins, interpretation of the Law, relation to the Father, self-reference as Son of Man, etc.).
-
-- **Ethical Teaching and Discipleship**  
-  The Sermon on the Mount / plain, parables of the kingdom, demands of following him, teachings on prayer, forgiveness, wealth, and neighbor-love.
-
-- **Interactions with Outsiders**  
-  Encounters with Gentiles and Samaritans, preserving both the stated priority of Israel and the recorded exceptions granted on the basis of faith.
-
-- **Conflicts and Controversies**  
-  Confrontations with religious authorities, Sabbath controversies, temple actions, and related sayings, kept strictly within the lifetime frame.
-
-- **Final Days Before the Crucifixion**  
-  The last week of public activity, the final meal, and related sayings, stopping before any post-crucifixion material.
-
-## Status
-
-This repository is newly initialized. The detailed compilation of texts has not yet begun. The present README defines the non-negotiable boundaries and the sole purpose of the work.
+- Repository and boundaries defined
+- Full directory structure scaffolded
+- Chapter and reference placeholders created
+- No lifetime content has yet been assembled into the chapters
 
 All future content will be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime will be rejected.
 
