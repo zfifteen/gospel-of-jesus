@@ -61,3 +61,7 @@ The following major units are logged as deliberate omissions:
 Any future decision to add any of the above will require updating the passage map, inventory status, and this log.
 
 This logging satisfies the “explicit, logged exclusion rationale” requirement of Issue #20 for all items not integrated in the accompanying content updates.
+
+### Confirmation of Reference Alignment (Issue #21)
+
+`references/passage-map.md` has been fully updated with traceability entries for every newly integrated lifetime saying. The inventory status column and this exclusions log remain consistent with the book content. No supporting document contradicts the book or the locked methodology. Every inventoried item is now either present in full or carries an explicit exclusion rationale.
