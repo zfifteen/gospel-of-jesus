@@ -4,39 +4,61 @@ This document records material that is deliberately omitted from the main book a
 
 Primary categories of exclusion:
 
-- Everything narrated as occurring after the crucifixion
+- Everything narrated as occurring after the death of Jesus
 - All letters, opinions, and writings of other people
 - Later theological systems, creeds, and interpretive traditions
 - Any speculative reconstruction that cannot be located inside the lifetime record
 
 ## Specific Boundary Decisions
 
-### Final Days chapter cutoff (Issue #10)
+### Final Days chapter cutoff — Original (Issue #10) — SUPERSEDED by Issue #30
 
-The crucifixion scene itself (the nailing, the hours on the cross, the words spoken from the cross, the death, and everything that follows) is excluded.
+The original cutoff excluded the crucifixion scene itself (the nailing, the hours on the cross, the words spoken from the cross, the death, and everything that follows).
 
-**Rationale:** The governing chronological rule requires material located inside the lifetime of Jesus *before the crucifixion*. The Final Days chapter therefore ends at the point at which Jesus is delivered by Pilate to be crucified. This keeps the entire chapter strictly inside the pre-crucifixion narrative and avoids any post-death or resurrection material.
+**Original rationale:** The governing chronological rule at the time required material located inside the lifetime of Jesus *before the crucifixion*. The Final Days chapter therefore ended at the point at which Jesus is delivered by Pilate to be crucified.
+
+**Status:** This early cutoff has been superseded by the boundary correction of Issue #30.
+
+### Boundary Correction (Issue #30, 2026-08-03)
+
+The chronological boundary has been corrected to align with the project’s clarified intent: include **all sayings and teachings of Jesus while he was still alive**, up to and including the moment of death.
+
+**New rule in force:**
+Only material narrated as spoken or performed by Jesus while he was still alive is eligible. Everything that occurs after the moment of death (burial, empty tomb, appearances, commissions, etc.) remains strictly out of scope.
+
+**Consequence of the correction:**
+The following sayings, previously excluded under the “before the crucifixion” line, are now included because they were spoken while Jesus was still alive on the cross:
+
+- “Father, forgive them, for they know not what they do.” (Luke 23:34)
+- “Truly, I say to you, today you will be with me in paradise.” (Luke 23:43)
+- “Woman, behold, your son!” / “Behold, your mother!” (John 19:26–27)
+- “My God, my God, why have you forsaken me?” (Matthew 27:46 // Mark 15:34)
+- “I thirst.” (John 19:28)
+- “It is finished.” (John 19:30)
+- “Father, into your hands I commit my spirit!” (Luke 23:46)
+
+These are now present in `book/08-final-days.md` and mapped in `references/passage-map.md`.
+
+**Still excluded:** Any material that the narrative places after the death of Jesus.
 
 ### Outcome of Final Boundary and Consistency Review (Issue #14)
 
-A full review of all eight book chapters against the locked methodology confirmed:
+A full review of all eight book chapters against the locked methodology (as it stood at the time) confirmed:
 
-- No post-crucifixion material is present.
-- No secondary theological systems, creeds, or later interpretive frameworks have entered the text.
-- Only minimal narrative framing required for intelligibility is used.
-- The passage map provides complete traceability for every included item.
+- No post-crucifixion material was present under the then-current boundary.
+- No secondary theological systems, creeds, or later interpretive frameworks had entered the text.
+- Only minimal narrative framing required for intelligibility was used.
+- The passage map provided complete traceability for every included item.
 
-No additional significant boundary questions requiring new exclusion entries arose during the review. The standing rules and the Final Days cutoff remain the operative exclusions.
-
-No other significant boundary questions arose during the assembly of Chapters 1–8 that required additional logged exclusions beyond the standing project rules.
+The standing rules and the (then) Final Days cutoff were the operative exclusions. That cutoff has since been corrected under Issue #30.
 
 ### Project Close-Out Note (Issue #13 / #15)
 
-With the final review complete and the project closed, the exclusions log is considered current and sufficient for the original scope. It remains available as a living record should any future boundary question arise after close-out, but no further entries are required under the completed workstreams.
+With the final review complete and the project closed under the original boundary, the exclusions log was considered current for that scope. The boundary correction of Issue #30 is a subsequent, explicit revision.
 
 ### Red-Letter Completeness Workstream Decisions (Issue #17 / #20)
 
-Under the red-letter completeness mandate, every inventoried pre-crucifixion saying must either be present in full in the book or carry an explicit exclusion rationale. The following deliberate omissions were recorded after gap analysis (#19) and during integration (#20). All remain strictly lifetime material and are eligible for future expansion; they are omitted here to preserve the existing thematic coherence, chapter balance, and readability of the original successful thematic compilation while still meeting the higher completeness bar through transparent logging.
+Under the red-letter completeness mandate, every inventoried pre-death saying must either be present in full in the book or carry an explicit exclusion rationale. The following deliberate omissions were recorded after gap analysis (#19) and during integration (#20). All remain strictly lifetime material and are eligible for future expansion; they are omitted here to preserve the existing thematic coherence, chapter balance, and readability of the original successful thematic compilation while still meeting the higher completeness bar through transparent logging.
 
 #### Extensive Johannine Pre-Crucifixion Discourses
 The following major units are logged as deliberate omissions:
@@ -65,3 +87,7 @@ This logging satisfies the “explicit, logged exclusion rationale” requiremen
 ### Confirmation of Reference Alignment (Issue #21)
 
 `references/passage-map.md` has been fully updated with traceability entries for every newly integrated lifetime saying. The inventory status column and this exclusions log remain consistent with the book content. No supporting document contradicts the book or the locked methodology. Every inventoried item is now either present in full or carries an explicit exclusion rationale.
+
+### Boundary Correction Alignment (Issue #30)
+
+With the inclusion of the words from the cross, the red-letter inventory, passage map, and this exclusions log have been brought into alignment with the corrected “up to the moment of death” boundary. All seven sayings are now present in full and mapped. Nothing after the moment of death has been introduced.
