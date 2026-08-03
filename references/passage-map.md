@@ -8,6 +8,8 @@ Only lifetime material is eligible for mapping.
 
 **Update note (Issue #28, 2026-08-03):** A reverse (biblical-reference-ordered) index has been added at the end of this document to allow lookup by known Gospel passage.
 
+**Update note (Issue #23, 2026-08-03):** Chapter 1 entries refined to reflect the expanded direct-quotation rendering of the same source material (no new passages added).
+
 ## Chapter 1: Core Proclamation
 
 | Item in book | Source location(s) | Notes |
@@ -16,9 +18,10 @@ Only lifetime material is eligible for mapping.
 | “Repent, for the kingdom of heaven is at hand.” | Matthew 4:17 | Parallel initial announcement |
 | “I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose.” | Luke 4:43 (cf. Mark 1:38) | Stated purpose of his preaching activity |
 | Went throughout cities and villages teaching and proclaiming the gospel of the kingdom | Matthew 9:35 | Summary of ongoing itinerant proclamation |
-| Instruction to the Twelve: “Go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, ‘The kingdom of heaven is at hand.’” | Matthew 10:5–7 | Message entrusted to the disciples on their mission |
-| Parallel instruction to heal and say “The kingdom of God has come near to you.” | Luke 10:9, 11 | Message given to those sent ahead |
-| Ongoing calls linking repentance to the kingdom announcement and warning of consequences for refusal | Luke 13:3, 5 and related lifetime sayings | Consistent demand for repentance in the lifetime record |
+| Instruction to the Twelve: “Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, ‘The kingdom of heaven is at hand.’” | Matthew 10:5–7 | Message entrusted to the disciples on their mission |
+| “The kingdom of God has come near to you.” | Luke 10:9 | Message given to those sent ahead |
+| “Even the dust of your town that clings to our feet we wipe off against you. Nevertheless know this, that the kingdom of God has come near.” | Luke 10:11 | Parallel instruction concerning non-receiving towns |
+| “Do you think that these Galileans were worse sinners... No, I tell you; but unless you repent, you will all likewise perish...” (and the parallel concerning those on whom the tower in Siloam fell) | Luke 13:1–5 | Explicit warning linking repentance to the kingdom announcement and the consequences of refusal |
 
 ## Chapter 2: Authority
 
@@ -189,6 +192,7 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Matthew 8:1–4 | 5. Encounters |
 | Matthew 8:5–13 | 5. Encounters |
 | Matthew 8:19–22 | 6. Discipleship |
+| Matthew 8:19–22 | 6. Discipleship |
 | Matthew 9:2–8 | 2. Authority |
 | Matthew 9:9–13 | 5. Encounters / 6. Discipleship |
 | Matthew 9:18–19, 23–26 | 5. Encounters |
@@ -326,7 +330,8 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Luke 9:46–48 | 6. Discipleship |
 | Luke 9:49–50 | 6. Discipleship |
 | Luke 9:57–62 | 6. Discipleship |
-| Luke 10:9, 11 | 1. Core Proclamation |
+| Luke 10:9 | 1. Core Proclamation |
+| Luke 10:11 | 1. Core Proclamation |
 | Luke 10:22 | 2. Authority |
 | Luke 10:25–28 | 3. Ethical Teaching |
 | Luke 10:25–37 | 4. Parables |
@@ -334,7 +339,7 @@ This secondary index is ordered primarily by Gospel and passage reference so tha
 | Luke 11:29–32 | 7. Conflict |
 | Luke 11:37–54 | 7. Conflict |
 | Luke 12:16–21 | 4. Parables |
-| Luke 13:3, 5 | 1. Core Proclamation |
+| Luke 13:1–5 | 1. Core Proclamation |
 | Luke 13:18–19 | 4. Parables |
 | Luke 13:20–21 | 4. Parables |
 | Luke 14:15–24 | 4. Parables |
