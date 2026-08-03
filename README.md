@@ -61,6 +61,7 @@ Key observations drawn strictly from the lifetime record include:
 ```
 gospel-of-jesus/
 ├── README.md                      # Project intent and hard boundaries
+├── LICENSE                        # CC0 1.0 Universal (public-domain dedication)
 ├── book/                          # THE MAIN BOOK
 │   ├── 00-toc.md                  # Table of Contents
 │   ├── 00-preface.md
@@ -136,3 +137,7 @@ All content continues to be measured against the rules stated above. Material th
 
 **Boundary reminder**  
 If a text, idea, or interpretation cannot be shown to belong to the living Jesus before the crucifixion, it does not belong in this repository.
+
+## License
+
+This work is dedicated to the public domain under [CC0 1.0 Universal](LICENSE).

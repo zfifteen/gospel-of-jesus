@@ -43,6 +43,11 @@ Under the red-letter completeness parent (#17):
 - Thematic organization of the book remains coherent
 - Higher completeness bar for spoken words (red-letter material) has been met while preserving the original thematic structure and locked boundaries
 
+## Licensing & Visibility (Issue #26)
+
+- **LICENSE**: CC0 1.0 Universal (public-domain dedication) added. The underlying Gospel source material is ancient and in the public domain; the compilation, thematic organization, and minimal framing are dedicated to the public domain under CC0 so that others may freely reuse, adapt, or build upon the work without restriction.
+- **Visibility decision**: The repository remains **private** for now. This decision is recorded here and may be revisited later if wider distribution is desired.
+
 ## Completed
 
 - [x] Lock methodology and boundary rules (#2)
