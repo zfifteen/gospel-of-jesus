@@ -16,6 +16,8 @@ This document inventories every major distinct saying / speech unit attributed t
 
 **Update note (Issue #20, 2026-08-03):** Priority missing units from the gap analysis have been integrated into the thematic chapters (Ethical Teaching, Parables, Discipleship). Remaining extensive Johannine discourses and selected other units carry explicit exclusion rationales in `references/exclusions.md` under the red-letter completeness workstream. This meets the “present in full or explicit exclusion rationale” criterion.
 
+**Update note (Issue #21, 2026-08-03):** `references/passage-map.md` fully updated with complete mapping for all integrated material. Exclusions log confirmed current. Inventory statuses remain accurate. Traceability requirement satisfied.
+
 **Gap analysis:** A complete classification of every item against the current book and passage map is recorded in [`references/gap-analysis.md`](gap-analysis.md) (Issue #19).
 
 ---
@@ -234,10 +236,10 @@ This document inventories every major distinct saying / speech unit attributed t
 - Status judgments are based on cross-reference against `references/passage-map.md` and the content of `book/01-*.md` through `book/08-*.md`.
 - Edge cases (e.g., passion predictions, Transfiguration voice, certain “I am” statements) are included because they are narrated as occurring while Jesus is alive and speaking; many are now under explicit exclusion log for coherence.
 
-## Completion of Issue #20
+## Completion of Issues #20 and #21
 
-Priority high-visibility missing units have been integrated. Remaining items carry explicit exclusion rationales. Thematic coherence preserved. No post-crucifixion content introduced. Style consistent with locked methodology.
+Priority high-visibility missing units have been integrated. Remaining items carry explicit exclusion rationales. Thematic coherence preserved. No post-crucifixion content introduced. Style consistent with locked methodology. Passage map and supporting references are now fully aligned.
 
 ---
 
-*Inventory created 2026-08-03 in fulfillment of Issue #18. Gap analysis linked 2026-08-03 (Issue #19). Statuses and exclusion notes updated 2026-08-03 in fulfillment of Issue #20.*
+*Inventory created 2026-08-03 in fulfillment of Issue #18. Gap analysis linked 2026-08-03 (Issue #19). Statuses and exclusion notes updated 2026-08-03 in fulfillment of Issue #20. Reference alignment confirmed 2026-08-03 in fulfillment of Issue #21.*
