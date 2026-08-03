@@ -97,11 +97,12 @@ gospel-of-jesus/
 - Full directory structure scaffolded
 - Methodology locked
 - All eight book chapters populated with lifetime material
-- Passage map completed for Chapters 1–8
+- Passage map completed and verified for Chapters 1–8
 - Chronology notes developed with major ordering decisions and lifetime-record rationales
-- Exclusion log maintained
+- Exclusion log maintained and expanded with final-review outcome
+- **Final boundary and consistency review completed** (Issue #14)
 
-Remaining work focuses on final completeness verification of the passage map, continued maintenance of the exclusion log, a full boundary-and-consistency review, and formal project close-out.
+Remaining work focuses on continued maintenance of the exclusion log as needed and formal project close-out.
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 
