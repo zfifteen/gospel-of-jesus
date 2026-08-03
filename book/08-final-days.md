@@ -1,6 +1,6 @@
 # 8. Final Days
 
-This chapter gathers the teachings, actions, and events of the final period of Jesus’ public activity while he was still alive. The material stops before the crucifixion itself.
+This chapter gathers the teachings, actions, and events of the final period of Jesus’ public activity while he was still alive, including the sayings spoken from the cross up to the moment of death.
 
 ## Entry into Jerusalem
 
@@ -76,6 +76,22 @@ And as soon as it was morning, the chief priests held a consultation with the el
 
 Now at the feast he used to release for them one prisoner for whom they asked. And among the rebels in prison, who had committed murder in the insurrection, there was a man called Barabbas. And the crowd came up and began to ask Pilate to do as he usually did for them. And he answered them, saying, “Do you want me to release for you the King of the Jews?” For he perceived that it was out of envy that the chief priests had delivered him up. But the chief priests stirred up the crowd to have him release for them Barabbas instead. And Pilate again said to them, “Then what shall I do with the man you call the King of the Jews?” And they cried out again, “Crucify him.” And Pilate said to them, “Why, what evil has he done?” But they shouted all the more, “Crucify him.” So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified.
 
+## On the Cross
+
+When they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left. And Jesus said, “Father, forgive them, for they know not what they do.”
+
+One of the criminals who were hanged railed at him, saying, “Are you not the Christ? Save yourself and us!” But the other rebuked him, saying, “Do you not fear God, since you are under the same sentence of condemnation? And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong.” And he said, “Jesus, remember me when you come into your kingdom.” And he said to him, “Truly, I say to you, today you will be with me in paradise.”
+
+Standing by the cross of Jesus were his mother and his mother’s sister, Mary the wife of Clopas, and Mary Magdalene. When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!” Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home.
+
+And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
+
+After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.”
+
+When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.
+
+Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last.
+
 ---
 
-*All material in this chapter is drawn exclusively from the pre-crucifixion narrative. The account ends at the point Jesus is delivered to be crucified; nothing that follows the crucifixion is included.*
+*All material in this chapter is drawn exclusively from the narrative while Jesus was still alive. The account includes the sayings spoken from the cross and ends at the moment of death; nothing that occurs after death is included.*
