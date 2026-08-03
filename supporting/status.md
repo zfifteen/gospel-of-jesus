@@ -16,6 +16,7 @@
 - **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
 - **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed
 - **Chronology notes developed** (`references/chronology.md`) — Issue #12 completed
+- **Exclusions log expanded with final-review outcome** (`references/exclusions.md`)
 - **Final boundary and consistency review completed** — Issue #14 completed
 
 ## Completed
@@ -35,5 +36,5 @@
 
 ## Next Steps
 
-1. Maintain the exclusion log whenever boundary questions arise (#13)
+1. Continue to maintain the exclusion log whenever new boundary questions arise (#13)
 2. Update status and close project (#15)
