@@ -4,7 +4,7 @@
 
 **ORIGINAL PROJECT COMPLETE** (Issues #1–#15)
 
-**RED-LETTER COMPLETENESS WORKSTREAM IN PROGRESS / PARTIALLY FULFILLED** (Parent #17)
+**RED-LETTER COMPLETENESS WORKSTREAM NEARLY COMPLETE** (Parent #17)
 
 - Repository initialized
 - Project boundaries defined in the root README
@@ -18,14 +18,15 @@
 - **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed; **expanded under #20** with “Come to me…”, children, greatness/child, “whoever is not against us”
 - **Conflict chapter populated** (`book/07-conflict.md`) — Issue #9 completed
 - **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
-- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed (further updates for new material pending full #21)
+- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed; **fully updated under #21** with all newly integrated material
 - **Chronology notes developed** (`references/chronology.md`) — Issue #12 completed
-- **Exclusions log maintained and expanded** (`references/exclusions.md`) — Issue #13 completed; **further expanded under #20** with explicit rationales for remaining red-letter items (especially extensive Johannine discourses)
+- **Exclusions log maintained and expanded** (`references/exclusions.md`) — Issue #13 completed; **further expanded under #20** with explicit rationales for remaining red-letter items (especially extensive Johannine discourses); **confirmed current under #21**
 - **Final boundary and consistency review completed** — Issue #14 completed
 - **Status updated and project closed** — Issue #15 completed
 - **Master red-letter inventory created** — Issue #18 completed
 - **Gap analysis completed** — Issue #19 completed
 - **Integration of missing/incomplete lifetime sayings** — Issue #20 completed (priority units integrated; remaining items carry explicit exclusion rationales in exclusions.md; thematic coherence and methodology preserved)
+- **Reference documents aligned** — Issue #21 completed (passage map, exclusions, inventory fully consistent with book content)
 
 All success criteria of the original parent issue (#1) have been met.
 
@@ -34,6 +35,7 @@ Under the red-letter completeness parent (#17):
 - Gap analysis complete
 - Integration performed for high-priority/high-visibility items with full direct quotation style
 - Explicit exclusion rationales logged for remaining inventoried items (especially volume-intensive Johannine material) so that every inventory item is either present or justified
+- Passage map, exclusions, and inventory now fully aligned
 - No post-crucifixion material introduced
 - Style remains consistent with locked methodology
 
@@ -57,13 +59,13 @@ Under the red-letter completeness parent (#17):
 - [x] Create master red-letter inventory (#18)
 - [x] Perform gap analysis (#19)
 - [x] Integrate missing and incomplete lifetime sayings / log exclusions (#20)
+- [x] Update passage map, exclusions log, and related references (#21)
 
 ## Remaining under #17
 
-- #21 Update passage map, exclusions (already partially done), and related references for the newly integrated material
 - #22 Final verification, boundary check, and status update
 - Parent #17 can then be closed
 
 ## Next Steps
 
-Complete #21 (traceability updates for the new integrations) and #22 (final gate). The original project remains complete; the red-letter work raises the spoken-word completeness bar while respecting the locked thematic and methodological boundaries.
+Complete #22 (final gate). The original project remains complete; the red-letter work raises the spoken-word completeness bar while respecting the locked thematic and methodological boundaries.
