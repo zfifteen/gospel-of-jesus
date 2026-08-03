@@ -60,7 +60,9 @@ gospel-of-jesus/
 ├── references/                    # Reference & supporting documentation
 │   ├── passage-map.md             # Maps included material to source locations
 │   ├── chronology.md              # Notes on internal ordering
-│   └── exclusions.md              # Explicit record of what is omitted and why
+│   ├── exclusions.md              # Explicit record of what is omitted and why
+│   ├── red-letter-inventory.md    # Master inventory of lifetime spoken words
+│   └── gap-analysis.md            # Gap analysis for completeness work
 └── supporting/                    # Project infrastructure
     ├── methodology.md             # Detailed inclusion / exclusion rules
     └── status.md                  # Current progress tracker
@@ -72,7 +74,7 @@ gospel-of-jesus/
   Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions.
 
 - **`references/`**  
-  Holds supporting documentation that protects the boundary: source mapping, chronological decisions, and a running log of exclusions.
+  Holds supporting documentation that protects the boundary: source mapping, chronological decisions, a running log of exclusions, the red-letter inventory, and gap analysis.
 
 - **`supporting/`**  
   Contains the methodological rules that govern the entire project and a simple status file.
@@ -95,15 +97,22 @@ gospel-of-jesus/
 
 **PROJECT COMPLETE** (2026-08-03)
 
+**RED-LETTER COMPLETENESS WORKSTREAM ALSO COMPLETE** (Issues #17–#22)
+
 - Repository and boundaries defined
 - Full directory structure scaffolded
 - Methodology locked
-- All eight book chapters populated with lifetime material
-- Passage map completed and verified for Chapters 1–8
+- All eight book chapters populated with lifetime material (expanded under the red-letter workstream with high-priority missing sayings)
+- Passage map completed, verified, and fully updated for all included material
 - Chronology notes developed with major ordering decisions and lifetime-record rationales
-- Exclusion log maintained and expanded with final-review outcome
+- Exclusion log maintained and expanded (including explicit rationales for remaining red-letter items under the completeness mandate)
+- Master red-letter inventory of all lifetime spoken words created and statused
+- Gap analysis performed and acted upon
 - Final boundary and consistency review completed (Issue #14)
-- Status updated and project formally closed (Issue #15)
+- Red-letter final verification and boundary check completed (Issue #22)
+- Status updated and both the original project and the red-letter completeness workstream formally closed
+
+Every inventoried pre-crucifixion saying of Jesus is either fully present in the book or carries an explicit, logged exclusion rationale. No post-crucifixion material is present. Style and thematic organization remain consistent with the locked methodology.
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 
