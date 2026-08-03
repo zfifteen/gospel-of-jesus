@@ -8,11 +8,11 @@ After John was arrested, Jesus came into Galilee, proclaiming the gospel of God,
 
 “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”
 
-(From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”)
+From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”
 
 ## The Purpose of His Preaching
 
-When people sought to keep him from leaving, he said:
+When the people sought him and would have kept him from leaving, he said to them:
 
 “I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose.”
 
@@ -24,10 +24,18 @@ Jesus sent out the Twelve, instructing them:
 
 “Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, ‘The kingdom of heaven is at hand.’”
 
-(He likewise sent others ahead of him, directing them to heal the sick and say, “The kingdom of God has come near to you.”)
+He likewise sent others ahead of him, directing them to heal the sick and say to them:
+
+“The kingdom of God has come near to you.”
+
+And concerning a town that does not receive them:
+
+“Even the dust of your town that clings to our feet we wipe off against you. Nevertheless know this, that the kingdom of God has come near.”
 
 ## Ongoing Calls to Repentance
 
-Jesus repeatedly pressed the demand to repent in connection with the kingdom’s nearness and with the consequences of refusing it. He warned that unless people repent they will perish, and he linked repentance to the reception of the good news he proclaimed.
+When some told him about the Galileans whose blood Pilate had mingled with their sacrifices, he answered them:
+
+“Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you; but unless you repent, you will all likewise perish. Or those eighteen on whom the tower in Siloam fell and killed them: do you think that they were worse offenders than all the others who lived in Jerusalem? No, I tell you; but unless you repent, you will all likewise perish.”
 
 The announcement remained consistent: the kingdom is at hand; the required response is to repent and believe.
