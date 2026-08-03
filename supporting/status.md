@@ -8,10 +8,12 @@
 
 **POST-COMPLETION RESIDUAL OPPORTUNITIES COMPLETE** (Parent #16 and all sub-issues #23–#29)
 
+**BOUNDARY CORRECTION COMPLETE** (Issue #30)
+
 - Repository initialized
 - Project boundaries defined in the root README
 - Directory structure and chapter placeholders created
-- **Methodology fully locked** (`supporting/methodology.md`) — Issue #2 completed
+- **Methodology fully locked** (`supporting/methodology.md`) — Issue #2 completed; **chronological rule corrected under #30** to “while still alive, up to the moment of death”
 - **Core Proclamation chapter populated** (`book/01-core-proclamation.md`) — Issue #3 completed; **quotation style expanded under #23** to prefer direct speech matching later chapters
 - **Authority chapter populated** (`book/02-authority.md`) — Issue #4 completed
 - **Ethical Teaching chapter populated** (`book/03-ethical-teaching.md`) — Issue #5 completed; **expanded under #20** with Lord’s Prayer, secrecy teachings (giving/prayer/fasting), Law fulfillment, false prophets, eye as lamp, pearls, etc.
@@ -19,13 +21,13 @@
 - **Encounters chapter populated** (`book/05-encounters.md`) — Issue #7 completed
 - **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed; **expanded under #20** with “Come to me…”, children, greatness/child, “whoever is not against us”
 - **Conflict chapter populated** (`book/07-conflict.md`) — Issue #9 completed
-- **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
-- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed; **fully updated under #21** with all newly integrated material; **Chapter 1 entries refined under #23**; reverse index added under #28
+- **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed; **expanded under #30** with the seven words from the cross
+- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed; **fully updated under #21** with all newly integrated material; **Chapter 1 entries refined under #23**; reverse index added under #28; **words from the cross added under #30**
 - **Chronology notes developed** (`references/chronology.md`) — Issue #12 completed
-- **Exclusions log maintained and expanded** (`references/exclusions.md`) — Issue #13 completed; **further expanded under #20** with explicit rationales for remaining red-letter items (especially extensive Johannine discourses); **confirmed current under #21**; **decision under #29 to continue omitting those units**
+- **Exclusions log maintained and expanded** (`references/exclusions.md`) — Issue #13 completed; **further expanded under #20** with explicit rationales for remaining red-letter items (especially extensive Johannine discourses); **confirmed current under #21**; **decision under #29 to continue omitting those units**; **previous early cutoff superseded and boundary correction recorded under #30**
 - **Final boundary and consistency review completed** — Issue #14 completed
 - **Status updated and project closed** — Issue #15 completed
-- **Master red-letter inventory created** — Issue #18 completed
+- **Master red-letter inventory created** — Issue #18 completed; **updated under #30** for pre-death scope and words from the cross
 - **Gap analysis completed** — Issue #19 completed
 - **Integration of missing/incomplete lifetime sayings** — Issue #20 completed (priority units integrated; remaining items carry explicit exclusion rationales in exclusions.md; thematic coherence and methodology preserved)
 - **Reference documents aligned** — Issue #21 completed (passage map, exclusions, inventory fully consistent with book content)
@@ -38,6 +40,7 @@
 - **Reverse biblical index added to passage-map** — Issue #28 completed
 - **Decision on remaining red-letter units** — Issue #29 completed (continue to omit for coherence reasons)
 - **Parent residual opportunities** — Issue #16 completed
+- **Boundary correction to include all pre-death sayings** — Issue #30 completed
 
 All success criteria of the original parent issue (#1) have been met.
 
@@ -47,7 +50,7 @@ Under the red-letter completeness parent (#17):
 - Integration performed for high-priority/high-visibility items with full direct quotation style
 - Explicit exclusion rationales logged for remaining inventoried items (especially volume-intensive Johannine material) so that every inventory item is either present in full or justified
 - Passage map, exclusions, and inventory now fully aligned and verified
-- No post-crucifixion material introduced anywhere in the book or supporting documents
+- No post-death material introduced anywhere in the book or supporting documents
 - No secondary voices or interpretive overlay present
 - Editorial style remains consistent with the locked methodology and existing chapters
 - Thematic organization of the book remains coherent
@@ -58,6 +61,8 @@ Under the residual opportunities parent (#16):
 - Conscious decision recorded under #29 to continue omitting the remaining logged units (no structural expansion)
 - Quotation style of Chapter 1 brought into alignment with the rest of the book (#23)
 - No material project state changes beyond the documented residual closures
+
+**Boundary correction (Issue #30):** The chronological rule now correctly includes every saying spoken while Jesus was still alive, up to the moment of death. The seven traditional words from the cross are present in full in Chapter 8. Everything after death remains strictly excluded. Methodology, exclusions, passage map, inventory, and status have all been updated accordingly.
 
 ## Licensing & Visibility (Issue #26)
 
@@ -95,16 +100,18 @@ Under the residual opportunities parent (#16):
 - [x] Add reverse biblical index (#28)
 - [x] Decision on selective expansion of remaining red-letter units (#29)
 - [x] Parent: Post-completion residual opportunities (#16)
+- [x] Correct chronological boundary to include all pre-death sayings (#30)
 
-## Verification Checklist (Issue #22) — All Confirmed
+## Verification Checklist (Issue #22 + #30) — All Confirmed
 
 - [x] Every item in `references/red-letter-inventory.md` is either fully present in the book or has an explicit, logged exclusion rationale
 - [x] `references/passage-map.md` contains a complete and accurate mapping for all included sayings
-- [x] No post-crucifixion material has entered any chapter or reference document
+- [x] No post-death material has entered any chapter or reference document
 - [x] No secondary voices or interpretive overlay have been introduced
 - [x] Editorial style remains consistent with the locked methodology and existing chapters
 - [x] Thematic organization of the book is still coherent
+- [x] All seven words from the cross are present in full and mapped
 
 ## Next Steps
 
-None. The original project, the red-letter completeness workstream, and all residual polish / decision items under #16 are complete. The repository remains in its finished state.
+None. The original project, the red-letter completeness workstream, all residual polish / decision items, and the boundary correction are complete. The repository remains in its finished state under the corrected pre-death chronological rule.
