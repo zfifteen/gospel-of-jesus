@@ -6,6 +6,8 @@ Only lifetime material is eligible for mapping.
 
 **Update note (Issue #21, 2026-08-03):** Entries added/expanded for every newly integrated or previously incomplete lifetime saying brought in under Issue #20. The map now provides complete traceability for all material present in the book chapters after the red-letter completeness integration pass.
 
+**Update note (Issue #28, 2026-08-03):** A reverse (biblical-reference-ordered) index has been added at the end of this document to allow lookup by known Gospel passage.
+
 ## Chapter 1: Core Proclamation
 
 | Item in book | Source location(s) | Notes |
@@ -152,3 +154,219 @@ Only lifetime material is eligible for mapping.
 | Delivery to Pilate; “Are you the King of the Jews?” / “You have said so”; silence under further accusation; choice of Barabbas; delivery to be crucified | Mark 15:1–15 (// Matthew 27:1–26; Luke 23:1–25) | Roman trial and decision while Jesus was still alive; account ends at the point of delivery to be crucified |
 
 *All mapped items are drawn exclusively from material narrated as occurring while Jesus was alive.*
+
+---
+
+## Reverse Index by Biblical Reference
+
+This secondary index is ordered primarily by Gospel and passage reference so that a reader who knows a biblical location can quickly see where (if at all) the material appears in the compiled book. Parallel references are noted; the chapter listed is the primary location in this volume.
+
+### Matthew
+
+| Biblical Reference | Chapter in this book |
+|--------------------|----------------------|
+| Matthew 4:17 | 1. Core Proclamation |
+| Matthew 4:18–20 | 6. Discipleship |
+| Matthew 4:21–22 | 6. Discipleship |
+| Matthew 5:3–12 | 3. Ethical Teaching |
+| Matthew 5:13–16 | 3. Ethical Teaching |
+| Matthew 5:17–20 | 3. Ethical Teaching |
+| Matthew 5:21–48 | 2. Authority |
+| Matthew 5:43–48 | 3. Ethical Teaching |
+| Matthew 6:1–4 | 3. Ethical Teaching |
+| Matthew 6:5–13 | 3. Ethical Teaching |
+| Matthew 6:14–15 | 3. Ethical Teaching |
+| Matthew 6:16–18 | 3. Ethical Teaching |
+| Matthew 6:19–34 | 3. Ethical Teaching |
+| Matthew 6:22–23 | 3. Ethical Teaching |
+| Matthew 7:1–5 | 3. Ethical Teaching |
+| Matthew 7:6 | 3. Ethical Teaching |
+| Matthew 7:7–11 | 3. Ethical Teaching |
+| Matthew 7:13–14 | 3. Ethical Teaching |
+| Matthew 7:15–20 | 3. Ethical Teaching |
+| Matthew 7:21 | 6. Discipleship |
+| Matthew 7:24–27 | 3. Ethical Teaching |
+| Matthew 8:1–4 | 5. Encounters |
+| Matthew 8:5–13 | 5. Encounters |
+| Matthew 8:19–22 | 6. Discipleship |
+| Matthew 9:2–8 | 2. Authority |
+| Matthew 9:9–13 | 5. Encounters / 6. Discipleship |
+| Matthew 9:18–19, 23–26 | 5. Encounters |
+| Matthew 9:20–22 | 5. Encounters |
+| Matthew 9:35 | 1. Core Proclamation / 2. Authority |
+| Matthew 10:5–7 | 1. Core Proclamation / 5. Encounters |
+| Matthew 10:37–39 | 6. Discipleship |
+| Matthew 11:27 | 2. Authority |
+| Matthew 11:28–30 | 6. Discipleship |
+| Matthew 12:8 | 2. Authority |
+| Matthew 12:9–13 | 2. Authority |
+| Matthew 12:24–32 | 7. Conflict |
+| Matthew 12:38–42 | 7. Conflict |
+| Matthew 12:46–50 | 6. Discipleship |
+| Matthew 13:3–9, 18–23 | 4. Parables |
+| Matthew 13:24–30, 36–43 | 4. Parables |
+| Matthew 13:31–32 | 4. Parables |
+| Matthew 13:33 | 4. Parables |
+| Matthew 13:44 | 4. Parables |
+| Matthew 13:45–46 | 4. Parables |
+| Matthew 13:47–50 | 4. Parables |
+| Matthew 15:1–20 | 7. Conflict |
+| Matthew 15:21–28 | 5. Encounters |
+| Matthew 15:24 | 5. Encounters |
+| Matthew 16:24–26 | 6. Discipleship |
+| Matthew 18:1–5 | 6. Discipleship |
+| Matthew 18:12–14 | 4. Parables |
+| Matthew 18:23–35 | 4. Parables |
+| Matthew 19:13–15 | 6. Discipleship |
+| Matthew 19:16–26 | 5. Encounters |
+| Matthew 19:27–30 | 6. Discipleship |
+| Matthew 20:1–16 | 4. Parables |
+| Matthew 20:25–28 | 6. Discipleship |
+| Matthew 20:29–34 | 5. Encounters |
+| Matthew 21:1–11 | 8. Final Days |
+| Matthew 21:12–17 | 8. Final Days |
+| Matthew 21:23–27 | 7. Conflict |
+| Matthew 21:28–32 | 4. Parables |
+| Matthew 21:33–46 | 4. Parables |
+| Matthew 22:1–14 | 4. Parables |
+| Matthew 22:15–22 | 7. Conflict |
+| Matthew 22:23–33 | 7. Conflict |
+| Matthew 22:34–40 | 3. Ethical Teaching |
+| Matthew 23:1–36 | 7. Conflict |
+| Matthew 24:1–3 | 8. Final Days |
+| Matthew 24:4–36 | 8. Final Days |
+| Matthew 25:1–13 | 4. Parables |
+| Matthew 25:14–30 | 4. Parables |
+| Matthew 25:31–46 | 4. Parables |
+| Matthew 26:6–13 | 8. Final Days |
+| Matthew 26:17–35 | 8. Final Days |
+| Matthew 26:36–46 | 8. Final Days |
+| Matthew 26:47–56 | 8. Final Days |
+| Matthew 26:57–68 | 8. Final Days |
+| Matthew 27:1–26 | 8. Final Days |
+
+### Mark
+
+| Biblical Reference | Chapter in this book |
+|--------------------|----------------------|
+| Mark 1:14–15 | 1. Core Proclamation |
+| Mark 1:16–18 | 6. Discipleship |
+| Mark 1:19–20 | 6. Discipleship |
+| Mark 1:21–22 | 2. Authority |
+| Mark 1:23–27 | 2. Authority |
+| Mark 1:32–34 | 2. Authority |
+| Mark 1:38 | 1. Core Proclamation |
+| Mark 1:40–45 | 5. Encounters |
+| Mark 2:5–12 | 2. Authority |
+| Mark 2:13–17 | 5. Encounters |
+| Mark 2:14 | 6. Discipleship |
+| Mark 2:27–28 | 2. Authority |
+| Mark 3:1–5 | 2. Authority |
+| Mark 3:22–30 | 7. Conflict |
+| Mark 3:31–35 | 6. Discipleship |
+| Mark 4:3–20 | 4. Parables |
+| Mark 4:26–29 | 4. Parables |
+| Mark 4:30–32 | 4. Parables |
+| Mark 5:21–24, 35–43 | 5. Encounters |
+| Mark 5:25–34 | 5. Encounters |
+| Mark 7:1–23 | 7. Conflict |
+| Mark 7:24–30 | 5. Encounters |
+| Mark 8:34–37 | 6. Discipleship |
+| Mark 9:33–37 | 6. Discipleship |
+| Mark 9:38–41 | 6. Discipleship |
+| Mark 10:13–16 | 6. Discipleship |
+| Mark 10:17–27 | 5. Encounters |
+| Mark 10:28–31 | 6. Discipleship |
+| Mark 10:42–45 | 6. Discipleship |
+| Mark 10:46–52 | 5. Encounters |
+| Mark 11:1–11 | 8. Final Days |
+| Mark 11:12–19 | 8. Final Days |
+| Mark 11:20–25 | 8. Final Days |
+| Mark 11:27–33 | 7. Conflict |
+| Mark 12:1–12 | 4. Parables |
+| Mark 12:13–17 | 7. Conflict |
+| Mark 12:18–27 | 7. Conflict |
+| Mark 12:28–34 | 3. Ethical Teaching |
+| Mark 12:38–40 | 7. Conflict |
+| Mark 12:41–44 | 8. Final Days |
+| Mark 13:1–4 | 8. Final Days |
+| Mark 13:5–37 | 8. Final Days |
+| Mark 14:3–9 | 8. Final Days |
+| Mark 14:12–31 | 8. Final Days |
+| Mark 14:32–42 | 8. Final Days |
+| Mark 14:43–50 | 8. Final Days |
+| Mark 14:53–65 | 8. Final Days |
+| Mark 15:1–15 | 8. Final Days |
+
+### Luke
+
+| Biblical Reference | Chapter in this book |
+|--------------------|----------------------|
+| Luke 4:16–30 | 7. Conflict |
+| Luke 4:31–32 | 2. Authority |
+| Luke 4:33–36 | 2. Authority |
+| Luke 4:43 | 1. Core Proclamation |
+| Luke 5:12–16 | 5. Encounters |
+| Luke 5:20–26 | 2. Authority |
+| Luke 5:27–32 | 5. Encounters / 6. Discipleship |
+| Luke 6:5 | 2. Authority |
+| Luke 6:6–10 | 2. Authority |
+| Luke 6:20–23 | 3. Ethical Teaching |
+| Luke 6:24–26 | 3. Ethical Teaching |
+| Luke 6:27–36 | 3. Ethical Teaching |
+| Luke 6:36 | 3. Ethical Teaching |
+| Luke 6:37–42 | 3. Ethical Teaching |
+| Luke 6:46–49 | 3. Ethical Teaching |
+| Luke 7:1–10 | 5. Encounters |
+| Luke 8:5–15 | 4. Parables |
+| Luke 8:19–21 | 6. Discipleship |
+| Luke 8:40–42, 49–56 | 5. Encounters |
+| Luke 8:43–48 | 5. Encounters |
+| Luke 9:23–25 | 6. Discipleship |
+| Luke 9:46–48 | 6. Discipleship |
+| Luke 9:49–50 | 6. Discipleship |
+| Luke 9:57–62 | 6. Discipleship |
+| Luke 10:9, 11 | 1. Core Proclamation |
+| Luke 10:22 | 2. Authority |
+| Luke 10:25–28 | 3. Ethical Teaching |
+| Luke 10:25–37 | 4. Parables |
+| Luke 11:2–4 | 3. Ethical Teaching |
+| Luke 11:29–32 | 7. Conflict |
+| Luke 11:37–54 | 7. Conflict |
+| Luke 12:16–21 | 4. Parables |
+| Luke 13:3, 5 | 1. Core Proclamation |
+| Luke 13:18–19 | 4. Parables |
+| Luke 13:20–21 | 4. Parables |
+| Luke 14:15–24 | 4. Parables |
+| Luke 14:25–33 | 6. Discipleship |
+| Luke 15:3–7 | 4. Parables |
+| Luke 15:8–10 | 4. Parables |
+| Luke 15:11–32 | 4. Parables |
+| Luke 18:15–17 | 6. Discipleship |
+| Luke 18:18–27 | 5. Encounters |
+| Luke 18:28–30 | 6. Discipleship |
+| Luke 18:35–43 | 5. Encounters |
+| Luke 19:1–10 | 5. Encounters |
+| Luke 19:28–40 | 8. Final Days |
+| Luke 19:45–48 | 8. Final Days |
+| Luke 20:1–8 | 7. Conflict |
+| Luke 20:9–19 | 4. Parables |
+| Luke 20:20–26 | 7. Conflict |
+| Luke 20:27–40 | 7. Conflict |
+| Luke 20:45–47 | 7. Conflict |
+| Luke 21:1–4 | 8. Final Days |
+| Luke 21:5–7 | 8. Final Days |
+| Luke 21:8–36 | 8. Final Days |
+| Luke 22:7–34 | 8. Final Days |
+| Luke 22:25–27 | 6. Discipleship |
+| Luke 22:39–46 | 8. Final Days |
+| Luke 22:47–53 | 8. Final Days |
+| Luke 23:1–25 | 8. Final Days |
+
+### John
+
+| Biblical Reference | Chapter in this book |
+|--------------------|----------------------|
+| John 4:5–26 | 5. Encounters |
+
+*Note: Extensive Johannine discourses that remain outside the present compilation carry explicit exclusion rationales in `references/exclusions.md` and are therefore omitted from both the chapter map and this reverse index.*
