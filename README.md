@@ -69,7 +69,7 @@ gospel-of-jesus/
 ### Role of each directory
 
 - **`book/`**  
-  Contains the main compilation. Each file is a thematic chapter. Content will be drawn exclusively from Jesus’ lifetime words and actions.
+  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions.
 
 - **`references/`**  
   Holds supporting documentation that protects the boundary: source mapping, chronological decisions, and a running log of exclusions.
@@ -83,15 +83,17 @@ gospel-of-jesus/
    Only material narrated as occurring before the crucifixion is eligible. Post-crucifixion scenes, even if found in the same Gospel documents, are out of scope.
 
 2. **No secondary voices**  
-   The compilation will contain Jesus’ words and a minimal narrative frame necessary to make those words and actions intelligible. It will not include the theological commentary of the Gospel writers, the letters of Paul, or any later author.
+   The compilation contains Jesus’ words and a minimal narrative frame necessary to make those words and actions intelligible. It does not include the theological commentary of the Gospel writers, the letters of Paul, or any later author.
 
 3. **No interpretive overlay**  
-   The repository will not advance opinions about the meaning, application, or contemporary relevance of the material. Presentation is limited to organization and clear quotation or close paraphrase of the lifetime record.
+   The repository does not advance opinions about the meaning, application, or contemporary relevance of the material. Presentation is limited to organization and clear quotation or close paraphrase of the lifetime record.
 
 4. **Transparency of boundaries**  
-   Every section will remain traceable to the pre-crucifixion narrative. Where a saying or action is included, its place inside the lifetime chronology will be evident.
+   Every section remains traceable to the pre-crucifixion narrative. Where a saying or action is included, its place inside the lifetime chronology is evident.
 
 ## Current Status
+
+**PROJECT COMPLETE** (2026-08-03)
 
 - Repository and boundaries defined
 - Full directory structure scaffolded
@@ -100,9 +102,8 @@ gospel-of-jesus/
 - Passage map completed and verified for Chapters 1–8
 - Chronology notes developed with major ordering decisions and lifetime-record rationales
 - Exclusion log maintained and expanded with final-review outcome
-- **Final boundary and consistency review completed** (Issue #14)
-
-Remaining work focuses on continued maintenance of the exclusion log as needed and formal project close-out.
+- Final boundary and consistency review completed (Issue #14)
+- Status updated and project formally closed (Issue #15)
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 

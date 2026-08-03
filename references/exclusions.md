@@ -29,3 +29,7 @@ A full review of all eight book chapters against the locked methodology confirme
 No additional significant boundary questions requiring new exclusion entries arose during the review. The standing rules and the Final Days cutoff remain the operative exclusions.
 
 No other significant boundary questions arose during the assembly of Chapters 1–8 that required additional logged exclusions beyond the standing project rules.
+
+### Project Close-Out Note (Issue #13 / #15)
+
+With the final review complete and the project closed, the exclusions log is considered current and sufficient for the original scope. It remains available as a living record should any future boundary question arise after close-out, but no further entries are required under the completed workstreams.
