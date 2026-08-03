@@ -2,7 +2,9 @@
 
 ## Current State
 
-**PROJECT COMPLETE**
+**ORIGINAL PROJECT COMPLETE** (Issues #1–#15)
+
+**RED-LETTER COMPLETENESS WORKSTREAM IN PROGRESS / PARTIALLY FULFILLED** (Parent #17)
 
 - Repository initialized
 - Project boundaries defined in the root README
@@ -10,26 +12,30 @@
 - **Methodology fully locked** (`supporting/methodology.md`) — Issue #2 completed
 - **Core Proclamation chapter populated** (`book/01-core-proclamation.md`) — Issue #3 completed
 - **Authority chapter populated** (`book/02-authority.md`) — Issue #4 completed
-- **Ethical Teaching chapter populated** (`book/03-ethical-teaching.md`) — Issue #5 completed
-- **Parables chapter populated** (`book/04-parables.md`) — Issue #6 completed
+- **Ethical Teaching chapter populated** (`book/03-ethical-teaching.md`) — Issue #5 completed; **expanded under #20** with Lord’s Prayer, secrecy teachings (giving/prayer/fasting), Law fulfillment, false prophets, eye as lamp, pearls, etc.
+- **Parables chapter populated** (`book/04-parables.md`) — Issue #6 completed; **expanded under #20** with Good Samaritan, Weeds, Seed growing secretly, Rich Fool, Unforgiving Servant, Two Sons, Wicked Tenants, Ten Virgins, Sheep and Goats, and related
 - **Encounters chapter populated** (`book/05-encounters.md`) — Issue #7 completed
-- **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed
+- **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed; **expanded under #20** with “Come to me…”, children, greatness/child, “whoever is not against us”
 - **Conflict chapter populated** (`book/07-conflict.md`) — Issue #9 completed
 - **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
-- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed
+- **Passage map completed and verified for Chapters 1–8** (`references/passage-map.md`) — Issue #11 completed (further updates for new material pending full #21)
 - **Chronology notes developed** (`references/chronology.md`) — Issue #12 completed
-- **Exclusions log maintained and expanded with final-review outcome** (`references/exclusions.md`) — Issue #13 completed
+- **Exclusions log maintained and expanded** (`references/exclusions.md`) — Issue #13 completed; **further expanded under #20** with explicit rationales for remaining red-letter items (especially extensive Johannine discourses)
 - **Final boundary and consistency review completed** — Issue #14 completed
 - **Status updated and project closed** — Issue #15 completed
+- **Master red-letter inventory created** — Issue #18 completed
+- **Gap analysis completed** — Issue #19 completed
+- **Integration of missing/incomplete lifetime sayings** — Issue #20 completed (priority units integrated; remaining items carry explicit exclusion rationales in exclusions.md; thematic coherence and methodology preserved)
 
-All success criteria of the parent issue (#1) have been met:
+All success criteria of the original parent issue (#1) have been met.
 
-- All eight book chapters populated with carefully selected lifetime material only
-- `references/passage-map.md` fully maps every included item
-- `references/chronology.md` documents ordering decisions
-- `references/exclusions.md` records significant boundary decisions
-- `supporting/methodology.md` remains the governing rule set
-- Final consistency and boundary review completed
+Under the red-letter completeness parent (#17):
+- Inventory exists
+- Gap analysis complete
+- Integration performed for high-priority/high-visibility items with full direct quotation style
+- Explicit exclusion rationales logged for remaining inventoried items (especially volume-intensive Johannine material) so that every inventory item is either present or justified
+- No post-crucifixion material introduced
+- Style remains consistent with locked methodology
 
 ## Completed
 
@@ -48,7 +54,16 @@ All success criteria of the parent issue (#1) have been met:
 - [x] Final boundary and consistency review (#14)
 - [x] Update supporting/status.md and close project (#15)
 - [x] Parent: Complete the Gospel of Jesus lifetime compilation (#1)
+- [x] Create master red-letter inventory (#18)
+- [x] Perform gap analysis (#19)
+- [x] Integrate missing and incomplete lifetime sayings / log exclusions (#20)
+
+## Remaining under #17
+
+- #21 Update passage map, exclusions (already partially done), and related references for the newly integrated material
+- #22 Final verification, boundary check, and status update
+- Parent #17 can then be closed
 
 ## Next Steps
 
-None. The project is complete. The exclusion log remains available for any future boundary questions that may arise after close-out, but no further work is required under the original scope.
+Complete #21 (traceability updates for the new integrations) and #22 (final gate). The original project remains complete; the red-letter work raises the spoken-word completeness bar while respecting the locked thematic and methodological boundaries.
