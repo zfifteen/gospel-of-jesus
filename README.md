@@ -79,7 +79,8 @@ gospel-of-jesus/
 │   ├── red-letter-inventory.md    # Master inventory of lifetime spoken words
 │   └── gap-analysis.md            # Gap analysis for completeness work
 └── supporting/                    # Project infrastructure
-    ├── methodology.md             # Detailed inclusion / exclusion rules
+    ├── methodology.md             # Detailed inclusion / exclusion rules (locked)
+    ├── editorial-notes.md         # Practical editorial practices (parallel accounts, etc.)
     └── status.md                  # Current progress tracker
 ```
 
@@ -92,7 +93,7 @@ gospel-of-jesus/
   Holds supporting documentation that protects the boundary: source mapping, chronological decisions, a running log of exclusions, the red-letter inventory, and gap analysis.
 
 - **`supporting/`**  
-  Contains the methodological rules that govern the entire project and a simple status file.
+  Contains the methodological rules that govern the entire project, a short record of practical editorial practices, and a simple status file.
 
 ## Methodological Rules
 
