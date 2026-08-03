@@ -86,7 +86,7 @@ Standing by the cross of Jesus were his mother and his mother’s sister, Mary t
 
 And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
 
-After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.”
+After this, Jesus, knowing that all was now finished, said, “I thirst.”
 
 When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.
 
