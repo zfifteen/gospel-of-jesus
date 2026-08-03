@@ -4,7 +4,7 @@
 
 **ORIGINAL PROJECT COMPLETE** (Issues #1–#15)
 
-**RED-LETTER COMPLETENESS WORKSTREAM NEARLY COMPLETE** (Parent #17)
+**RED-LETTER COMPLETENESS WORKSTREAM COMPLETE** (Parent #17 and all sub-issues #18–#22)
 
 - Repository initialized
 - Project boundaries defined in the root README
@@ -27,17 +27,21 @@
 - **Gap analysis completed** — Issue #19 completed
 - **Integration of missing/incomplete lifetime sayings** — Issue #20 completed (priority units integrated; remaining items carry explicit exclusion rationales in exclusions.md; thematic coherence and methodology preserved)
 - **Reference documents aligned** — Issue #21 completed (passage map, exclusions, inventory fully consistent with book content)
+- **Final verification, boundary check, and status update** — Issue #22 completed
 
 All success criteria of the original parent issue (#1) have been met.
 
 Under the red-letter completeness parent (#17):
-- Inventory exists
+- Inventory exists and is complete
 - Gap analysis complete
 - Integration performed for high-priority/high-visibility items with full direct quotation style
-- Explicit exclusion rationales logged for remaining inventoried items (especially volume-intensive Johannine material) so that every inventory item is either present or justified
-- Passage map, exclusions, and inventory now fully aligned
-- No post-crucifixion material introduced
-- Style remains consistent with locked methodology
+- Explicit exclusion rationales logged for remaining inventoried items (especially volume-intensive Johannine material) so that every inventory item is either present in full or justified
+- Passage map, exclusions, and inventory now fully aligned and verified
+- No post-crucifixion material introduced anywhere in the book or supporting documents
+- No secondary voices or interpretive overlay present
+- Editorial style remains consistent with the locked methodology and existing chapters
+- Thematic organization of the book remains coherent
+- Higher completeness bar for spoken words (red-letter material) has been met while preserving the original thematic structure and locked boundaries
 
 ## Completed
 
@@ -60,12 +64,18 @@ Under the red-letter completeness parent (#17):
 - [x] Perform gap analysis (#19)
 - [x] Integrate missing and incomplete lifetime sayings / log exclusions (#20)
 - [x] Update passage map, exclusions log, and related references (#21)
+- [x] Final verification, boundary check, and status update (#22)
+- [x] Parent: Ensure complete capture of all lifetime spoken words of Jesus (red-letter sayings) (#17)
 
-## Remaining under #17
+## Verification Checklist (Issue #22) — All Confirmed
 
-- #22 Final verification, boundary check, and status update
-- Parent #17 can then be closed
+- [x] Every item in `references/red-letter-inventory.md` is either fully present in the book or has an explicit, logged exclusion rationale
+- [x] `references/passage-map.md` contains a complete and accurate mapping for all included sayings
+- [x] No post-crucifixion material has entered any chapter or reference document
+- [x] No secondary voices or interpretive overlay have been introduced
+- [x] Editorial style remains consistent with the locked methodology and existing chapters
+- [x] Thematic organization of the book is still coherent
 
 ## Next Steps
 
-Complete #22 (final gate). The original project remains complete; the red-letter work raises the spoken-word completeness bar while respecting the locked thematic and methodological boundaries.
+None required for the red-letter completeness workstream. The original project and the higher spoken-word completeness bar are both fully satisfied. Optional future polish items remain available under the open post-completion review (#16) if desired.
