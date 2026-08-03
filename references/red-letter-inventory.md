@@ -15,6 +15,8 @@ This document inventories every major distinct saying / speech unit attributed t
 
 Statuses reflect the state of the repository as of the creation of this inventory (post original project close-out, pre-red-letter completeness work).
 
+**Gap analysis:** A complete classification of every item against the current book and passage map is recorded in [`references/gap-analysis.md`](gap-analysis.md) (Issue #19).
+
 ---
 
 ## 1. Initial Proclamation and Early Ministry
@@ -233,8 +235,8 @@ Statuses reflect the state of the repository as of the creation of this inventor
 
 ## Next Steps (for downstream issues)
 
-This inventory is the required deliverable for Issue #18. It enables:
-- Issue #19: systematic gap analysis against the book and passage map
+This inventory is the required deliverable for Issue #18. It enabled:
+- Issue #19: systematic gap analysis against the book and passage map — **completed** (see `references/gap-analysis.md`)
 - Issue #20: integration of missing/incomplete units
 - Subsequent reference updates and final verification
 
@@ -242,4 +244,4 @@ All items marked `absent` or `present in part` are candidates for review under t
 
 ---
 
-*Inventory created 2026-08-03 in fulfillment of Issue #18.*
+*Inventory created 2026-08-03 in fulfillment of Issue #18. Gap analysis linked 2026-08-03 (Issue #19).*
