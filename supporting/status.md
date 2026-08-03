@@ -13,7 +13,8 @@
 - **Encounters chapter populated** (`book/05-encounters.md`) — Issue #7 completed
 - **Discipleship chapter populated** (`book/06-discipleship.md`) — Issue #8 completed
 - **Conflict chapter populated** (`book/07-conflict.md`) — Issue #9 completed
-- Passage map updated with entries for Chapters 1–7
+- **Final Days chapter populated** (`book/08-final-days.md`) — Issue #10 completed
+- Passage map updated with entries for Chapters 1–8
 
 ## Completed
 
@@ -25,11 +26,12 @@
 - [x] Populate book/05-encounters.md (#7)
 - [x] Populate book/06-discipleship.md (#8)
 - [x] Populate book/07-conflict.md (#9)
+- [x] Populate book/08-final-days.md (#10)
 
 ## Next Steps
 
-1. Populate the Final Days chapter (#10)
-2. Expand `references/passage-map.md` as remaining content is added (#11)
-3. Maintain the exclusion log whenever boundary questions arise (#13)
-4. Develop chronology notes (#12)
-5. Final boundary and consistency review (#14)
+1. Expand and finalize `references/passage-map.md` completeness check (#11)
+2. Maintain the exclusion log whenever boundary questions arise (#13)
+3. Develop chronology notes (#12)
+4. Final boundary and consistency review (#14)
+5. Update status and close project (#15)
