@@ -10,7 +10,7 @@ No material that occurs after death is permitted.
 
 **Live site:** [https://zfifteen.github.io/gospel-of-jesus/](https://zfifteen.github.io/gospel-of-jesus/)
 
-## Table of Contents (Book)
+## Table of Contents (Thematic Book)
 
 A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 
@@ -24,7 +24,19 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 - [7. Conflict](book/07-conflict.md)
 - [8. Final Days](book/08-final-days.md)
 
-**Spanish translation** of the full book is available in [`book-es/`](book-es/). See [`book-es/README.md`](book-es/README.md) for details.
+**Spanish translation** of the full thematic book is available in [`book-es/`](book-es/). See [`book-es/README.md`](book-es/README.md) for details.
+
+## Chronological Companion (Issue #44)
+
+A parallel chronological volume is available in [`book-chrono/`](book-chrono/).
+
+This volume presents the same lifetime material in sequential order rather than by theme. It observes the identical locked boundaries (lifetime only, up to and including the moment of death) and includes the major Johannine discourses previously omitted from the thematic book for coherence reasons.
+
+- [Chronological TOC](book-chrono/00-toc.md)
+- [Chronological Preface](book-chrono/00-preface.md)
+- Supporting notes: [`references/chrono-ordering-notes.md`](references/chrono-ordering-notes.md), [`references/chrono-passage-map.md`](references/chrono-passage-map.md)
+
+The thematic book remains the completed primary presentation. The chronological volume is a complementary workstream that prioritizes sequential completeness.
 
 ## Strict Scope Boundaries
 
@@ -66,19 +78,7 @@ Key observations drawn strictly from the lifetime record include:
 gospel-of-jesus/
 ├── README.md                      # Project intent and hard boundaries
 ├── LICENSE                        # CC0 1.0 Universal (public-domain dedication)
-├── book/                          # THE MAIN BOOK (English source of truth)
-│   ├── 00-toc.md                  # Table of Contents
-│   ├── 00-preface.md
-│   ├── 01-core-proclamation.md
-│   ├── 02-authority.md
-│   ├── 03-ethical-teaching.md
-│   ├── 04-parables.md
-│   ├── 05-encounters.md
-│   ├── 06-discipleship.md
-│   ├── 07-conflict.md
-│   └── 08-final-days.md
-├── book-es/                       # Spanish translation of the book
-│   ├── README.md                  # Relation to English source + notes
+├── book/                          # THE MAIN THEMATIC BOOK (English source of truth)
 │   ├── 00-toc.md
 │   ├── 00-preface.md
 │   ├── 01-core-proclamation.md
@@ -89,44 +89,30 @@ gospel-of-jesus/
 │   ├── 06-discipleship.md
 │   ├── 07-conflict.md
 │   └── 08-final-days.md
+├── book-chrono/                   # CHRONOLOGICAL COMPANION (Issue #44)
+│   ├── 00-toc.md
+│   ├── 00-preface.md
+│   ├── 01-early-galilee.md
+│   ├── 02-authority-and-early-conflict.md
+│   ├── 03-major-teaching.md
+│   ├── 04-parables-in-context.md
+│   ├── 05-encounters-and-mission.md
+│   ├── 06-journey-and-rising-conflict.md
+│   ├── 07-final-week.md
+│   └── 08-words-from-the-cross.md
+├── book-es/                       # Spanish translation of the thematic book
 ├── references/                    # Reference & supporting documentation
-│   ├── passage-map.md             # Maps included material to source locations
-│   ├── chronology.md              # Notes on internal ordering
-│   ├── exclusions.md              # Explicit record of what is omitted and why
-│   ├── red-letter-inventory.md    # Master inventory of lifetime spoken words
-│   └── gap-analysis.md            # Gap analysis for completeness work
-├── supporting/                    # Project infrastructure
-│   ├── methodology.md             # Detailed inclusion / exclusion rules (locked)
-│   ├── editorial-notes.md         # Practical editorial practices (parallel accounts, etc.)
-│   └── status.md                  # Current progress tracker
-├── scripts/                       # Build tooling
-│   └── build_web.py               # Generates the single-page web companion
-└── web/                           # Generated book-like single-page site
-    ├── index.html
-    ├── .nojekyll
-    └── assets/
-        └── style.css
+│   ├── passage-map.md
+│   ├── chronology.md
+│   ├── exclusions.md
+│   ├── red-letter-inventory.md
+│   ├── gap-analysis.md
+│   ├── chrono-ordering-notes.md
+│   └── chrono-passage-map.md
+├── supporting/
+├── scripts/
+└── web/
 ```
-
-### Role of each directory
-
-- **`book/`**  
-  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions. A table of contents (`00-toc.md`) provides navigation. This is the English source of truth.
-
-- **`book-es/`**  
-  Contains a faithful Spanish translation of every file in `book/`. It follows the same structure, chapter order, and locked methodology boundaries. No new content is introduced.
-
-- **`references/`**  
-  Holds supporting documentation that protects the boundary: source mapping, chronological decisions, a running log of exclusions, the red-letter inventory, and gap analysis.
-
-- **`supporting/`**  
-  Contains the methodological rules that govern the entire project, a short record of practical editorial practices, and a simple status file.
-
-- **`scripts/`**  
-  Contains the build script that produces the single-page web companion from the markdown sources.
-
-- **`web/`**  
-  Holds the generated single-page site (index.html + assets). It is produced by `scripts/build_web.py` and is never hand-edited. The folder is committed so the site is immediately usable after a clone.
 
 ## Methodological Rules
 
@@ -144,24 +130,13 @@ gospel-of-jesus/
 
 ## Current Status
 
-**PROJECT COMPLETE** (2026-08-03)
+**THEMATIC PROJECT COMPLETE** (2026-08-03)
 
 **RED-LETTER COMPLETENESS WORKSTREAM ALSO COMPLETE** (Issues #17–#22)
 
-- Repository and boundaries defined
-- Full directory structure scaffolded
-- Methodology locked
-- All eight book chapters populated with lifetime material (expanded under the red-letter workstream with high-priority missing sayings)
-- Passage map completed, verified, and fully updated for all included material
-- Chronology notes developed with major ordering decisions and lifetime-record rationales
-- Exclusion log maintained and expanded (including explicit rationales for remaining red-letter items under the completeness mandate)
-- Master red-letter inventory of all lifetime spoken words created and statused
-- Gap analysis performed and acted upon
-- Final boundary and consistency review completed (Issue #14)
-- Red-letter final verification and boundary check completed (Issue #22)
-- Status updated and both the original project and the red-letter completeness workstream formally closed
+**CHRONOLOGICAL COMPANION ADVANCED** (Issue #44)
 
-Every inventoried lifetime saying of Jesus (while still alive, up to the moment of death) is either fully present in the book or carries an explicit, logged exclusion rationale. No material that occurs after death is present. Style and thematic organization remain consistent with the locked methodology.
+The thematic book is complete. The chronological volume now includes the major Johannine discourses (Nicodemus, Bread of Life, Good Shepherd, Lazarus core, Farewell Discourse core units, and High Priestly Prayer) in addition to the Synoptic sequence and the words from the cross. Residual shorter units may receive further refinement.
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 
