@@ -58,6 +58,90 @@ She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their ma
 
 (Matthew 15:21–28)
 
+## Bread of Life discourse
+
+When the people found him on the other side of the sea, they said to him, “Rabbi, when did you come here?” Jesus answered them,
+
+“Truly, truly, I say to you, you are seeking me, not because you saw signs, but because you ate your fill of the loaves. Do not work for the food that perishes, but for the food that endures to eternal life, which the Son of Man will give to you. For on him God the Father has set his seal.”
+
+Then they said to him, “What must we do, to be doing the works of God?” Jesus answered them,
+
+“This is the work of God, that you believe in him whom he has sent.”
+
+So they said to him, “Then what sign do you do, that we may see and believe you? What work do you perform? Our fathers ate the manna in the wilderness; as it is written, ‘He gave them bread from heaven to eat.’” Jesus then said to them,
+
+“Truly, truly, I say to you, it was not Moses who gave you the bread from heaven, but my Father gives you the true bread from heaven. For the bread of God is he who comes down from heaven and gives life to the world.”
+
+They said to him, “Sir, give us this bread always.” Jesus said to them,
+
+“I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst. But I said to you that you have seen me and yet do not believe. All that the Father gives me will come to me, and whoever comes to me I will never cast out. For I have come down from heaven, not to do my own will but the will of him who sent me. And this is the will of him who sent me, that I should lose nothing of all that he has given me, but raise it up on the last day. For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day.”
+
+So the Jews grumbled about him, because he said, “I am the bread that came down from heaven.” They said, “Is not this Jesus, the son of Joseph, whose father and mother we know? How does he now say, ‘I have come down from heaven’?” Jesus answered them,
+
+“Do not grumble among yourselves. No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day. It is written in the Prophets, ‘And they will all be taught by God.’ Everyone who has heard and learned from the Father comes to me—not that anyone has seen the Father except he who is from God; he has seen the Father. Truly, truly, I say to you, whoever believes has eternal life. I am the bread of life. Your fathers ate the manna in the wilderness, and they died. This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”
+
+The Jews then disputed among themselves, saying, “How can this man give us his flesh to eat?” So Jesus said to them,
+
+“Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day. For my flesh is true food, and my blood is true drink. Whoever feeds on my flesh and drinks my blood abides in me, and I in him. As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me. This is the bread that came down from heaven, not like the bread the fathers ate, and died. Whoever feeds on this bread will live forever.”
+
+(John 6:25–58)
+
+## Hard saying and many turn away
+
+When many of his disciples heard it, they said, “This is a hard saying; who can listen to it?” But Jesus, knowing in himself that his disciples were grumbling about this, said to them,
+
+“Do you take offense at this? Then what if you were to see the Son of Man ascending to where he was before? It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life. But there are some of you who do not believe.”
+
+(For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him.) And he said,
+
+“This is why I told you that no one can come to me unless it is granted him by the Father.”
+
+After this many of his disciples turned back and no longer walked with him. So Jesus said to the twelve,
+
+“Do you want to go away as well?”
+
+Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life, and we have believed, and have come to know, that you are the Holy One of God.”
+
+(John 6:60–69)
+
+## The Good Shepherd
+
+“Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. But he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.”
+
+This figure of speech Jesus used with them, but they did not understand what he was saying to them. So Jesus again said to them,
+
+“Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers, but the sheep did not listen to them. I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd. For this reason the Father loves me, because I lay down my life that I may take it up again. No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”
+
+(John 10:1–18)
+
+## Raising of Lazarus and “I am the resurrection”
+
+Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha. ... So when Jesus came, he found that Lazarus had already been in the tomb four days. ... Martha said to Jesus, “Lord, if you had been here, my brother would not have died. But even now I know that whatever you ask from God, God will give you.” Jesus said to her,
+
+“Your brother will rise again.”
+
+Martha said to him, “I know that he will rise again in the resurrection on the last day.” Jesus said to her,
+
+“I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”
+
+She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”
+
+... Jesus said,
+
+“Take away the stone.”
+
+... And Jesus lifted up his eyes and said,
+
+“Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.”
+
+When he had said these things, he cried out with a loud voice,
+
+“Lazarus, come out.”
+
+The man who had died came out...
+
+(John 11:1–44, selected core sayings)
+
 ## Zacchaeus
 
 He entered Jericho and was passing through. And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich. And he was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature. So he ran on ahead and climbed up into a sycamore tree to see him, for he was about to pass that way. And when Jesus came to the place, he looked up and said to him,
@@ -76,7 +160,7 @@ And they came to Jericho. And as he was leaving Jericho with his disciples and a
 
 “What do you want me to do for you?”
 
-And the blind man said to him, “Rabbi, let me recover my sight.” And Jesus said to him,
+And the blind man said to him, “Rabbi, let me recover his sight.” And Jesus said to him,
 
 “Go your way; your faith has made you well.”
 
