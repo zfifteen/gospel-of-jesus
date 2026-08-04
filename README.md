@@ -101,6 +101,7 @@ gospel-of-jesus/
 │   └── build_web.py               # Generates the single-page web companion
 └── web/                           # Generated book-like single-page site
     ├── index.html
+    ├── .nojekyll
     └── assets/
         └── style.css
 ```
@@ -195,13 +196,28 @@ Markdown remains the source of truth. Re-run the script after any change to `boo
 
 ### Continuous integration
 
-A GitHub Actions workflow (`.github/workflows/build-web.yml`) rebuilds the site whenever markdown sources under `book/` or `references/` change, or when the build script itself changes. The workflow also runs on pull requests that touch those paths and can be triggered manually.
+A GitHub Actions workflow (`.github/workflows/build-web.yml`) rebuilds the site whenever markdown sources under `book/` or `references/` change, or when the build script itself changes. On `main` it also commits the regenerated `web/` folder so the repository always contains a usable site. The workflow uploads `web/` as an artifact named `gospel-of-jesus-web` (30-day retention).
 
-The built `web/` folder is uploaded as a workflow artifact named `gospel-of-jesus-web` (retained 30 days). No Pages deployment is performed.
+### GitHub Pages
+
+A second workflow (`.github/workflows/deploy-pages.yml`) deploys the committed `web/` folder to GitHub Pages.
+
+**One-time enable step (required):**
+
+1. Open the repository on GitHub.
+2. Go to **Settings → Pages**.
+3. Under **Build and deployment → Source**, select **GitHub Actions**.
+4. Save.
+
+After that, every push that updates `web/` (or a manual run of the Deploy GitHub Pages workflow) publishes the site at:
+
+**https://zfifteen.github.io/gospel-of-jesus/**
+
+An empty `web/.nojekyll` file is present so GitHub serves the static HTML without running Jekyll.
 
 ### Git policy
 
-The generated `web/` folder is committed so that a clone of the repository already contains a usable site. Re-run `python scripts/build_web.py` after any change to the markdown sources and commit the updated `web/` files. Hosting (GitHub Pages or otherwise) is out of scope for the current build.
+The generated `web/` folder is committed so that a clone of the repository already contains a usable site. Re-run `python scripts/build_web.py` after any change to the markdown sources and commit the updated `web/` files (or let the build-web workflow do it on `main`).
 
 ## License
 
