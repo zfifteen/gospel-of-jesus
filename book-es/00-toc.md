@@ -11,3 +11,4 @@ Este volumen está organizado temáticamente a partir del registro de las palabr
 - [6. Discipulado](06-discipleship.md)
 - [7. Conflicto](07-conflict.md)
 - [8. Días finales](08-final-days.md)
+- [9. Dichos residuales de la vida de Jesús](09-residual-units.md)
