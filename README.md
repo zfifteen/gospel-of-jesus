@@ -8,6 +8,8 @@ The sole objective is to collect and organize what Jesus himself said and did wh
 
 No material that occurs after death is permitted.
 
+**Live site:** [https://zfifteen.github.io/gospel-of-jesus/](https://zfifteen.github.io/gospel-of-jesus/)
+
 ## Table of Contents (Book)
 
 A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
