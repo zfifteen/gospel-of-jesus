@@ -28,15 +28,15 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 
 ## Chronological Companion (Issue #44)
 
-A parallel chronological volume is under construction in [`book-chrono/`](book-chrono/).
+A parallel chronological volume is available in [`book-chrono/`](book-chrono/).
 
-This volume presents the same lifetime material in sequential order rather than by theme. It observes the identical locked boundaries (lifetime only, up to and including the moment of death) and restores every inventoried saying in full.
+This volume presents the same lifetime material in sequential order rather than by theme. It observes the identical locked boundaries (lifetime only, up to and including the moment of death) and includes the major Johannine discourses previously omitted from the thematic book for coherence reasons.
 
 - [Chronological TOC](book-chrono/00-toc.md)
 - [Chronological Preface](book-chrono/00-preface.md)
 - Supporting notes: [`references/chrono-ordering-notes.md`](references/chrono-ordering-notes.md), [`references/chrono-passage-map.md`](references/chrono-passage-map.md)
 
-The thematic book remains the completed primary presentation. The chronological volume is a complementary workstream.
+The thematic book remains the completed primary presentation. The chronological volume is a complementary workstream that prioritizes sequential completeness.
 
 ## Strict Scope Boundaries
 
@@ -134,9 +134,9 @@ gospel-of-jesus/
 
 **RED-LETTER COMPLETENESS WORKSTREAM ALSO COMPLETE** (Issues #17–#22)
 
-**CHRONOLOGICAL COMPANION IN PROGRESS** (Issue #44)
+**CHRONOLOGICAL COMPANION ADVANCED** (Issue #44)
 
-The thematic book is complete. The chronological volume has the full sequential structure, core Synoptic material, and the words from the cross. Remaining extensive Johannine discourses are being integrated to meet the every-saying completeness rule.
+The thematic book is complete. The chronological volume now includes the major Johannine discourses (Nicodemus, Bread of Life, Good Shepherd, Lazarus core, Farewell Discourse core units, and High Priestly Prayer) in addition to the Synoptic sequence and the words from the cross. Residual shorter units may receive further refinement.
 
 All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
 
