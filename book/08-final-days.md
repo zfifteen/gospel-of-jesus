@@ -54,6 +54,56 @@ And when it was evening, he came with the twelve. And as they were reclining at 
 
 And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.” And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. And he said to them, “This is my blood of the covenant, which is poured out for many. Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
 
+## Foot washing and example
+
+During the meal Jesus rose, laid aside his outer garments, and taking a towel, tied it around his waist. Then he poured water into a basin and began to wash the disciples’ feet and to wipe them with the towel. When he had washed their feet and put on his outer garments and resumed his place, he said to them,
+
+“Do you understand what I have done to you? You call me Teacher and Lord, and you are right, for so I am. If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you also should do just as I have done to you. Truly, truly, I say to you, a servant is not greater than his master, nor is a messenger greater than the one who sent him. If you know these things, blessed are you if you do them.”
+
+(John 13:12–17)
+
+## New commandment
+
+“A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another.”
+
+(John 13:34–35)
+
+## Farewell Discourse (core units)
+
+“Let not your hearts be troubled. Believe in God; believe also in me. In my Father’s house are many rooms. If it were not so, would I have told you that I go to prepare a place for you? And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also. And you know the way to where I am going.”
+
+Thomas said to him, “Lord, we do not know where you are going. How can we know the way?” Jesus said to him,
+
+“I am the way, and the truth, and the life. No one comes to the Father except through me. If you had known me, you would have known my Father also. From now on you do know him and have seen him.”
+
+Philip said to him, “Lord, show us the Father, and it is enough for us.” Jesus said to him,
+
+“Have I been with you so long, and you still do not know me, Philip? Whoever has seen me has seen the Father. How can you say, ‘Show us the Father’? Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own authority, but the Father who dwells in me does his works. Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves.
+
+“Truly, truly, I say to you, whoever believes in me will also do the works that I do; and greater works than these will he do, because I am going to the Father. Whatever you ask in my name, this I will do, that the Father may be glorified in the Son. If you ask me anything in my name, I will do it.
+
+“If you love me, you will keep my commandments. And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.
+
+“I will not leave you as orphans; I will come to you. Yet a little while and the world will see me no more, but you will see me. Because I live, you also will live. In that day you will know that I am in my Father, and you in me, and I in you. Whoever has my commandments and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him.”
+
+“I am the true vine, and my Father is the vinedresser. Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. Already you are clean because of the word that I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned. If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you. By this my Father is glorified, that you bear much fruit and so prove to be my disciples. As the Father has loved me, so have I loved you. Abide in my love. If you keep my commandments, you will abide in my love, just as I have kept my Father’s commandments and abide in his love. These things I have spoken to you, that my joy may be in you, and that your joy may be full.
+
+“This is my commandment, that you love one another as I have loved you. Greater love has no one than this, that someone lay down his life for his friends. You are my friends if you do what I command you. No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you. You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you. These things I command you, so that you will love one another.”
+
+(John 14:1–21; 15:1–17, core units)
+
+## High Priestly Prayer
+
+When Jesus had spoken these words, he lifted up his eyes to heaven, and said,
+
+“Father, the hour has come; glorify your Son that the Son may glorify you, since you have given him authority over all flesh, to give eternal life to all whom you have given him. And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent. I glorified you on earth, having accomplished the work that you gave me to do. And now, Father, glorify me in your own presence with the glory that I had with you before the world existed.
+
+“I have manifested your name to the people whom you gave me out of the world. Yours they were, and you gave them to me, and they have kept your word. Now they know that everything that you have given me is from you. For I have given them the words that you gave me, and they have received them and have come to know in truth that I came from you; and they have believed that you sent me. I am praying for them. I am not praying for the world but for those whom you have given me, for they are yours. All mine are yours, and yours are mine, and I am glorified in them. And I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, keep them in your name, which you have given me, that they may be one, even as we are one. While I was with them, I kept them in your name, which you have given me. I have guarded them, and not one of them has been lost except the son of destruction, that the Scripture might be fulfilled. But now I am coming to you, and these things I speak in the world, that they may have my joy fulfilled in themselves. I have given them your word, and the world has hated them because they are not of the world, just as I am not of the world. I do not ask that you take them out of the world, but that you keep them from the evil one. They are not of the world, just as I am not of the world. Sanctify them in the truth; your word is truth. As you sent me into the world, so I have sent them into the world. And for their sake I consecrate myself, that they also may be sanctified in truth.
+
+“I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me. The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me. Father, I desire that they also, whom you have given me, may be with me where I am, to see my glory that you have given me because you loved me before the foundation of the world. O righteous Father, even though the world does not know you, I know you, and these know that you have sent me. I made known to them your name, and I will continue to make it known, that the love with which you have loved me may be in them, and I in them.”
+
+(John 17)
+
 And when they had sung a hymn, they went out to the Mount of Olives. And Jesus said to them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’ But after I am raised up, I will go before you to Galilee.” Peter said to him, “Even though they all fall away, I will not.” And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.” But he said emphatically, “If I must die with you, I will not deny you.” And they all said the same.
 
 ## Gethsemane
