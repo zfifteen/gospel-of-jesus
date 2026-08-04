@@ -102,8 +102,7 @@ def inject_heading_ids(html: str, headings: list[tuple[int, str]], used_ids: set
             return f'<{tag} id="{hid}"{attrs}>{content}</{tag}>'
         return match.group(0)
 
-    pattern = re.compile(r"<(h[12])([^>]*)>(.*?)</\1>", re.DOTALL | re.IGNORECASE)
-    return pattern.sub(replacer, html)
+    return re.sub(r"<(h[12])(\s[^>]*)?>(.*?)</\1>", replacer, html, flags=re.S)
 
 
 def load_ordered_files(directory: Path, filenames: list[str]) -> list[tuple[str, str, list[tuple[int, str]]]]:
@@ -144,50 +143,61 @@ body {
   line-height: 1.65; color: var(--text); background: var(--bg);
 }
 
-/* ---- Sticky nav: compact by default, expandable ---- */
+/* ---- Thin sticky bar + hamburger panel ---- */
 .site-nav {
   position: sticky; top: 0; z-index: 100;
   background: var(--nav-bg); color: var(--nav-text);
   font-family: system-ui, -apple-system, sans-serif;
-  font-size: 0.85rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-
-.site-nav .nav-bar {
-  display: flex; align-items: center; gap: 0.75rem;
-  padding: 0.55rem 1rem;
-  max-width: 70rem; margin: 0 auto;
-}
-
-.site-nav .nav-label {
-  font-weight: 600; opacity: 0.9; white-space: nowrap;
+  font-size: 0.9rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.18);
 }
 
 .site-nav .nav-toggle {
-  margin-left: auto;
-  background: rgba(255,255,255,0.12);
-  border: 1px solid rgba(255,255,255,0.25);
+  display: flex; align-items: center; gap: 0.6rem;
+  width: 100%; max-width: 70rem; margin: 0 auto;
+  padding: 0.55rem 1rem;
+  background: transparent; border: 0;
   color: var(--nav-text);
-  font: inherit; font-size: 0.8rem;
-  padding: 0.3rem 0.7rem;
-  border-radius: 4px;
-  cursor: pointer;
-  white-space: nowrap;
+  font: inherit; font-weight: 600;
+  cursor: pointer; text-align: left;
 }
 
 .site-nav .nav-toggle:hover,
 .site-nav .nav-toggle:focus {
-  background: rgba(255,255,255,0.22);
+  background: rgba(255,255,255,0.08);
   outline: none;
+}
+
+.site-nav .hamburger {
+  display: inline-flex; flex-direction: column; justify-content: center;
+  gap: 4px; width: 1.15rem; height: 1rem;
+  flex-shrink: 0;
+}
+
+.site-nav .hamburger span {
+  display: block; height: 2px; width: 100%;
+  background: currentColor; border-radius: 1px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.site-nav.is-open .hamburger span:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+.site-nav.is-open .hamburger span:nth-child(2) {
+  opacity: 0;
+}
+.site-nav.is-open .hamburger span:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+.site-nav .nav-label {
+  opacity: 0.95;
 }
 
 .site-nav .nav-links {
   display: none;
-  max-height: min(55vh, 28rem);
-  overflow-y: auto;
-  padding: 0.4rem 1rem 0.75rem;
   border-top: 1px solid rgba(255,255,255,0.12);
-  -webkit-overflow-scrolling: touch;
+  background: var(--nav-bg);
 }
 
 .site-nav.is-open .nav-links {
@@ -196,27 +206,23 @@ body {
 
 .site-nav .nav-links-inner {
   max-width: 70rem; margin: 0 auto;
-  display: flex; flex-wrap: wrap; gap: 0.3rem 0.65rem; align-items: center;
+  padding: 0.35rem 0 0.6rem;
+  display: flex; flex-direction: column;
 }
 
 .site-nav a {
   color: var(--nav-text); text-decoration: none;
-  padding: 0.2rem 0.4rem; border-radius: 3px; white-space: nowrap;
+  padding: 0.55rem 1rem;
+  display: block;
 }
 
 .site-nav a:hover, .site-nav a:focus {
-  background: rgba(255,255,255,0.15); outline: none;
+  background: rgba(255,255,255,0.12); outline: none;
 }
 
-.site-nav a.level-1 { font-weight: 600; }
-
-/* On wide screens keep links visible by default, still height-capped */
-@media (min-width: 900px) {
-  .site-nav .nav-links {
-    display: block;
-    max-height: 9rem;
-  }
-  .site-nav .nav-toggle { display: none; }
+.site-nav a.group-refs {
+  opacity: 0.9;
+  font-size: 0.92em;
 }
 
 main {
@@ -273,21 +279,20 @@ th, td {
 }
 
 th { background: #f0ebe3; font-weight: 600; }
-tr:nth-child(even) td { background: #faf8f5; }
-
-.section { margin-bottom: 3rem; }
 
 .section-group-title {
-  font-family: system-ui, sans-serif; font-size: 0.75rem;
-  text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted);
-  margin: 3rem 0 1rem; border-top: 1px solid var(--border); padding-top: 1.5rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+  margin: 3rem 0 1rem; padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
 }
 
 footer {
   max-width: var(--max-measure); margin: 0 auto;
   padding: 1.5rem 1.25rem 3rem;
   font-family: system-ui, sans-serif; font-size: 0.8rem; color: var(--muted);
-  border-top: 1px solid var(--border);
+  text-align: center;
 }
 
 footer a { color: var(--link); }
@@ -303,8 +308,8 @@ footer a { color: var(--link); }
 def generate_html(nav_items: list[dict], book_html_parts: list[str], ref_html_parts: list[str]) -> str:
     nav_links = []
     for item in nav_items:
-        cls = f'class="level-{item["level"]}"'
-        nav_links.append(f'<a href="#{item["id"]}" {cls}>{item["title"]}</a>')
+        extra = " group-refs" if item.get("group") == "refs" else ""
+        nav_links.append(f'<a href="#{item["id"]}" class="level-1{extra}">{item["title"]}</a>')
     nav_html = "\n          ".join(nav_links)
     book_body = "\n".join(book_html_parts)
     ref_body = "\n".join(ref_html_parts)
@@ -314,19 +319,20 @@ def generate_html(nav_items: list[dict], book_html_parts: list[str], ref_html_pa
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gospel of Jesus — Full Companion</title>
+  <title>Gospel of Jesus - Full Companion</title>
   <meta name="description" content="A single-page, book-like presentation of the lifetime teachings and actions of Jesus of Nazareth together with the full companion references.">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
-  <nav class="site-nav" id="site-nav" aria-label="Jump navigation">
-    <div class="nav-bar">
-      <span class="nav-label">Jump to section</span>
-      <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-links">
-        Show navigation
-      </button>
-    </div>
+  <nav class="site-nav" id="site-nav" aria-label="Section navigation">
+    <button type="button" class="nav-toggle" id="nav-toggle"
+            aria-expanded="false" aria-controls="nav-links" aria-label="Open section menu">
+      <span class="hamburger" aria-hidden="true">
+        <span></span><span></span><span></span>
+      </span>
+      <span class="nav-label">Sections</span>
+    </button>
     <div class="nav-links" id="nav-links">
       <div class="nav-links-inner">
         {nav_html}
@@ -369,17 +375,25 @@ def generate_html(nav_items: list[dict], book_html_parts: list[str], ref_html_pa
     function setOpen(open) {{
       nav.classList.toggle('is-open', open);
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-      btn.textContent = open ? 'Hide navigation' : 'Show navigation';
+      btn.setAttribute('aria-label', open ? 'Close section menu' : 'Open section menu');
     }}
 
     btn.addEventListener('click', function () {{
       setOpen(!nav.classList.contains('is-open'));
     }});
 
-    // Close after choosing a link (mobile-friendly)
+    // Close after choosing a link
     links.addEventListener('click', function (e) {{
-      if (e.target.tagName === 'A' && window.matchMedia('(max-width: 899px)').matches) {{
+      if (e.target.tagName === 'A') {{
         setOpen(false);
+      }}
+    }});
+
+    // Close on Escape
+    document.addEventListener('keydown', function (e) {{
+      if (e.key === 'Escape' && nav.classList.contains('is-open')) {{
+        setOpen(false);
+        btn.focus();
       }}
     }});
   }})();
@@ -414,9 +428,10 @@ def main() -> int:
 
     used_ids_nav: set[str] = set()
     nav_items: list[dict] = []
+    # Only top-level (H1) sections — numbered chapters + major reference titles
     for filename, raw, headings in book_data:
         for level, title in headings:
-            if level > 2:
+            if level != 1:
                 continue
             base = slugify(title)
             hid = make_unique_id(base, used_ids_nav)
@@ -424,7 +439,7 @@ def main() -> int:
 
     for filename, raw, headings in ref_data:
         for level, title in headings:
-            if level > 2:
+            if level != 1:
                 continue
             base = slugify(title)
             hid = make_unique_id(base, used_ids_nav)
