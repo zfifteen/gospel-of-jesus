@@ -39,6 +39,7 @@ BOOK_FILES = [
     "06-discipleship.md",
     "07-conflict.md",
     "08-final-days.md",
+    "09-residual-units.md",
 ]
 
 REFERENCE_FILES = [
