@@ -41,52 +41,27 @@ These are now present in `book/08-final-days.md` and mapped in `references/passa
 
 **Still excluded:** Any material that the narrative places after the death of Jesus.
 
-### Outcome of Final Boundary and Consistency Review (Issue #14)
+### Red-Letter Completeness Workstream Decisions (Issue #17 / #20) — UPDATED by Issue #46
 
-A full review of all eight book chapters against the locked methodology (as it stood at the time) confirmed:
+Under the red-letter completeness mandate, every inventoried pre-death saying must either be present in full in the book or carry an explicit exclusion rationale. The following major units were originally logged as deliberate omissions to preserve thematic coherence and chapter balance.
 
-- No post-crucifixion material was present under the then-current boundary.
-- No secondary theological systems, creeds, or later interpretive frameworks had entered the text.
-- Only minimal narrative framing required for intelligibility was used.
-- The passage map provided complete traceability for every included item.
+**Update (Issue #46, 2026-08-04):** The major Johannine discourses listed below have been restored to the thematic book. They now appear in full (or core units where noted) in `book/05-encounters.md` and `book/08-final-days.md`. The original coherence rationale is superseded by the decision to align completeness between the thematic and chronological volumes.
 
-The standing rules and the (then) Final Days cutoff were the operative exclusions. That cutoff has since been corrected under Issue #30.
+#### Extensive Johannine Pre-Crucifixion Discourses — NOW INCLUDED
 
-### Project Close-Out Note (Issue #13 / #15)
+- John 3:1–21 (Nicodemus dialogue) — present in `book/05-encounters.md`
+- John 6:25–59 (Bread of Life discourse) and 6:60–71 (hard saying) — present in `book/05-encounters.md`
+- John 10:1–18 (Good Shepherd) — present in `book/05-encounters.md`
+- John 11 core (“I am the resurrection and the life”) — present in `book/05-encounters.md`
+- John 13:1–20 / 13:31–38 (foot washing teaching and new commandment) — present in `book/08-final-days.md`
+- John 14–15 core units of the Farewell Discourse — present in `book/08-final-days.md`
+- John 17 (High Priestly Prayer) — present in `book/08-final-days.md`
 
-With the final review complete and the project closed under the original boundary, the exclusions log was considered current for that scope. The boundary correction of Issue #30 is a subsequent, explicit revision.
+Residual shorter units from John 5, 7–9, and 12 remain candidates for future selective addition if needed. The major discourses are no longer treated as exclusions.
 
-### Red-Letter Completeness Workstream Decisions (Issue #17 / #20)
+### Confirmation of Reference Alignment
 
-Under the red-letter completeness mandate, every inventoried pre-death saying must either be present in full in the book or carry an explicit exclusion rationale. The following deliberate omissions were recorded after gap analysis (#19) and during integration (#20). All remain strictly lifetime material and are eligible for future expansion; they are omitted here to preserve the existing thematic coherence, chapter balance, and readability of the original successful thematic compilation while still meeting the higher completeness bar through transparent logging.
-
-#### Extensive Johannine Pre-Crucifixion Discourses
-The following major units are logged as deliberate omissions:
-
-- John 3:1–21 (Nicodemus dialogue, including “born again / from above” and “God so loved the world”)
-- John 5:19–47 (discourse after Bethesda)
-- John 6:25–59 (Bread of Life discourse) and 6:60–71 (hard saying / many turn away)
-- John 7:14–24; 7:37–39; 8:12; 8:31–59; 9:1–41 (temple teaching, living water, light of the world, true discipleship / “before Abraham was, I am”, man born blind)
-- John 10:1–18; 10:22–39 (Good Shepherd; “I and the Father are one”)
-- John 11:1–44 (Lazarus; “I am the resurrection and the life” — the saying itself is high-value but the extended narrative is lengthy)
-- John 12:20–36; 12:44–50
-- John 13:1–20 (foot washing teaching); 13:31–38 (new commandment)
-- John 14–16 (Farewell Discourse in full)
-- John 17 (High Priestly Prayer)
-
-**Rationale:** These are extensive, continuous discourses with a distinctive Johannine style of self-identification and extended theological development. Integrating them in full would substantially expand several chapters (or require a new residual chapter) and shift the overall balance of the book away from the concise thematic structure that successfully completed the original project. They remain fully eligible lifetime material under the chronological rule. The decision prioritizes coherence of the existing eight-chapter thematic organization over exhaustive inclusion of every extended discourse. Short “I am” or invitation sayings from these contexts may be considered for selective future addition; the full units are logged here as omitted by design under the completeness workstream.
-
-#### Additional Selected Omissions with Rationale
-- Certain shorter Synoptic units that do not cleanly expand an existing subsection without disproportionate length increase (e.g., some of the detailed Olivet expansions already partially covered, specific Lukan hospitality or Sabbath-healing framing that duplicates existing conflict material) are noted as covered by the general thematic presence or logged as low-priority for the current pass.
-- Passion predictions and Transfiguration are retained as candidates; if not expanded in Conflict/Final Days in this pass, they fall under the same coherence rationale.
-
-Any future decision to add any of the above will require updating the passage map, inventory status, and this log.
-
-This logging satisfies the “explicit, logged exclusion rationale” requirement of Issue #20 for all items not integrated in the accompanying content updates.
-
-### Confirmation of Reference Alignment (Issue #21)
-
-`references/passage-map.md` has been fully updated with traceability entries for every newly integrated lifetime saying. The inventory status column and this exclusions log remain consistent with the book content. No supporting document contradicts the book or the locked methodology. Every inventoried item is now either present in full or carries an explicit exclusion rationale.
+With the restoration under Issue #46, the exclusions log, inventory status, and passage map require corresponding updates to reflect the new presence of these units in the thematic book.
 
 ### Boundary Correction Alignment (Issue #30)
 
