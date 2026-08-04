@@ -22,6 +22,8 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 - [7. Conflict](book/07-conflict.md)
 - [8. Final Days](book/08-final-days.md)
 
+**Spanish translation** of the full book is available in [`book-es/`](book-es/). See [`book-es/README.md`](book-es/README.md) for details.
+
 ## Strict Scope Boundaries
 
 ### Included
@@ -62,8 +64,20 @@ Key observations drawn strictly from the lifetime record include:
 gospel-of-jesus/
 ├── README.md                      # Project intent and hard boundaries
 ├── LICENSE                        # CC0 1.0 Universal (public-domain dedication)
-├── book/                          # THE MAIN BOOK
+├── book/                          # THE MAIN BOOK (English source of truth)
 │   ├── 00-toc.md                  # Table of Contents
+│   ├── 00-preface.md
+│   ├── 01-core-proclamation.md
+│   ├── 02-authority.md
+│   ├── 03-ethical-teaching.md
+│   ├── 04-parables.md
+│   ├── 05-encounters.md
+│   ├── 06-discipleship.md
+│   ├── 07-conflict.md
+│   └── 08-final-days.md
+├── book-es/                       # Spanish translation of the book
+│   ├── README.md                  # Relation to English source + notes
+│   ├── 00-toc.md
 │   ├── 00-preface.md
 │   ├── 01-core-proclamation.md
 │   ├── 02-authority.md
@@ -88,7 +102,10 @@ gospel-of-jesus/
 ### Role of each directory
 
 - **`book/`**  
-  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions. A table of contents (`00-toc.md`) provides navigation.
+  Contains the main compilation. Each file is a thematic chapter. Content is drawn exclusively from Jesus’ lifetime words and actions. A table of contents (`00-toc.md`) provides navigation. This is the English source of truth.
+
+- **`book-es/`**  
+  Contains a faithful Spanish translation of every file in `book/`. It follows the same structure, chapter order, and locked methodology boundaries. No new content is introduced.
 
 - **`references/`**  
   Holds supporting documentation that protects the boundary: source mapping, chronological decisions, a running log of exclusions, the red-letter inventory, and gap analysis.
