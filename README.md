@@ -23,6 +23,7 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 - [6. Discipleship](book/06-discipleship.md)
 - [7. Conflict](book/07-conflict.md)
 - [8. Final Days](book/08-final-days.md)
+- [9. Residual Lifetime Sayings](book/09-residual-units.md)
 
 **Spanish translation** of the full thematic book is available in [`book-es/`](book-es/). See [`book-es/README.md`](book-es/README.md) for details.
 
@@ -30,7 +31,7 @@ A dedicated navigation page is available at [`book/00-toc.md`](book/00-toc.md).
 
 A parallel chronological volume is available in [`book-chrono/`](book-chrono/).
 
-This volume presents the same lifetime material in sequential order rather than by theme. It observes the identical locked boundaries (lifetime only, up to and including the moment of death) and includes the major Johannine discourses previously omitted from the thematic book for coherence reasons.
+This volume presents the same lifetime material in sequential order rather than by theme. It observes the identical locked boundaries (lifetime only, up to and including the moment of death). Under the absolute completeness standard, every inventoried lifetime saying is present in full here as well as in the thematic book.
 
 - [Chronological TOC](book-chrono/00-toc.md)
 - [Chronological Preface](book-chrono/00-preface.md)
@@ -88,7 +89,8 @@ gospel-of-jesus/
 │   ├── 05-encounters.md
 │   ├── 06-discipleship.md
 │   ├── 07-conflict.md
-│   └── 08-final-days.md
+│   ├── 08-final-days.md
+│   └── 09-residual-units.md
 ├── book-chrono/                   # CHRONOLOGICAL COMPANION (Issue #44)
 │   ├── 00-toc.md
 │   ├── 00-preface.md
@@ -99,7 +101,8 @@ gospel-of-jesus/
 │   ├── 05-encounters-and-mission.md
 │   ├── 06-journey-and-rising-conflict.md
 │   ├── 07-final-week.md
-│   └── 08-words-from-the-cross.md
+│   ├── 08-words-from-the-cross.md
+│   └── 09-residual-sequential.md
 ├── book-es/                       # Spanish translation of the thematic book
 ├── references/                    # Reference & supporting documentation
 │   ├── passage-map.md
@@ -130,15 +133,15 @@ gospel-of-jesus/
 
 ## Current Status
 
-**THEMATIC PROJECT COMPLETE** (2026-08-03)
+**PROJECT COMPLETE** (2026-08-03)
 
-**RED-LETTER COMPLETENESS WORKSTREAM ALSO COMPLETE** (Issues #17–#22)
+**RED-LETTER COMPLETENESS WORKSTREAM COMPLETE** (Issues #17–#22)
 
-**CHRONOLOGICAL COMPANION ADVANCED** (Issue #44)
+**ABSOLUTE COMPLETENESS WORKSTREAM COMPLETE** (Parent #48 and Issues #49–#54)
 
-The thematic book is complete. The chronological volume now includes the major Johannine discourses (Nicodemus, Bread of Life, Good Shepherd, Lazarus core, Farewell Discourse core units, and High Priestly Prayer) in addition to the Synoptic sequence and the words from the cross. Residual shorter units may receive further refinement.
+Every inventoried lifetime saying of Jesus is present in full in the thematic book, the chronological book, and the Spanish translation. Residual units that could not be placed inside existing thematic chapters without disruption are collected in dedicated residual chapters. The only permanent exclusions are post-death material and non-speech narrative.
 
-All content continues to be measured against the rules stated above. Material that cannot be located inside Jesus’ lifetime is rejected.
+All content is measured against the locked methodology (lifetime only, up to and including the moment of death) and the absolute completeness rule (no exceptions for coherence or length).
 
 ---
 
@@ -164,8 +167,8 @@ Requires the `markdown-it-py` package.
 
 ### What the page contains
 
-- Preface and chapters 1–8 of the book
-- All companion references (passage map, chronology, exclusions, red-letter inventory, gap analysis)
+- Preface and chapters 1–9 of the book (including residual units)
+- All companion references (passage map, chronology, exclusions, red-letter inventory, completeness confirmation)
 - Sticky top navigation that jumps to every chapter and major section
 - A light frame with project purpose, repository link, and CC0 notice
 
