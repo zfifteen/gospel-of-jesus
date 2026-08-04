@@ -1,0 +1,42 @@
+name: Build web companion
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'book/**'
+      - 'references/**'
+      - 'scripts/build_web.py'
+      - '.github/workflows/build-web.yml'
+  pull_request:
+    paths:
+      - 'book/**'
+      - 'references/**'
+      - 'scripts/build_web.py'
+      - '.github/workflows/build-web.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install markdown-it-py
+
+      - name: Build web companion
+        run: python scripts/build_web.py
+
+      - name: Upload web artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gospel-of-jesus-web
+          path: web/
+          retention-days: 30

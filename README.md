@@ -93,10 +93,16 @@ gospel-of-jesus/
 │   ├── exclusions.md              # Explicit record of what is omitted and why
 │   ├── red-letter-inventory.md    # Master inventory of lifetime spoken words
 │   └── gap-analysis.md            # Gap analysis for completeness work
-└── supporting/                    # Project infrastructure
-    ├── methodology.md             # Detailed inclusion / exclusion rules (locked)
-    ├── editorial-notes.md         # Practical editorial practices (parallel accounts, etc.)
-    └── status.md                  # Current progress tracker
+├── supporting/                    # Project infrastructure
+│   ├── methodology.md             # Detailed inclusion / exclusion rules (locked)
+│   ├── editorial-notes.md         # Practical editorial practices (parallel accounts, etc.)
+│   └── status.md                  # Current progress tracker
+├── scripts/                       # Build tooling
+│   └── build_web.py               # Generates the single-page web companion
+└── web/                           # Generated book-like single-page site
+    ├── index.html
+    └── assets/
+        └── style.css
 ```
 
 ### Role of each directory
@@ -112,6 +118,12 @@ gospel-of-jesus/
 
 - **`supporting/`**  
   Contains the methodological rules that govern the entire project, a short record of practical editorial practices, and a simple status file.
+
+- **`scripts/`**  
+  Contains the build script that produces the single-page web companion from the markdown sources.
+
+- **`web/`**  
+  Holds the generated single-page site (index.html + assets). It is produced by `scripts/build_web.py` and is never hand-edited. The folder is committed so the site is immediately usable after a clone.
 
 ## Methodological Rules
 
@@ -154,6 +166,42 @@ All content continues to be measured against the rules stated above. Material th
 
 **Boundary reminder**  
 If a text, idea, or interpretation cannot be shown to belong to the living Jesus (i.e., before or at the moment of death), it does not belong in this repository.
+
+## Web build
+
+A single-page, book-like website of the full companion (book + references) is generated under `web/`.
+
+### Generate the site
+
+```bash
+python scripts/build_web.py
+```
+
+This command writes:
+
+- `web/index.html` — the complete single-page document
+- `web/assets/style.css` — book-like styles (readable measure, serif type, sticky jump navigation)
+
+Requires the `markdown-it-py` package.
+
+### What the page contains
+
+- Preface and chapters 1–8 of the book
+- All companion references (passage map, chronology, exclusions, red-letter inventory, gap analysis)
+- Sticky top navigation that jumps to every chapter and major section
+- A light frame with project purpose, repository link, and CC0 notice
+
+Markdown remains the source of truth. Re-run the script after any change to `book/` or `references/`. The generated HTML is never edited by hand.
+
+### Continuous integration
+
+A GitHub Actions workflow (`.github/workflows/build-web.yml`) rebuilds the site whenever markdown sources under `book/` or `references/` change, or when the build script itself changes. The workflow also runs on pull requests that touch those paths and can be triggered manually.
+
+The built `web/` folder is uploaded as a workflow artifact named `gospel-of-jesus-web` (retained 30 days). No Pages deployment is performed.
+
+### Git policy
+
+The generated `web/` folder is committed so that a clone of the repository already contains a usable site. Re-run `python scripts/build_web.py` after any change to the markdown sources and commit the updated `web/` files. Hosting (GitHub Pages or otherwise) is out of scope for the current build.
 
 ## License
 
