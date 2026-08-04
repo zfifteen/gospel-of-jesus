@@ -99,7 +99,7 @@ gospel-of-jesus/
 │   └── status.md                  # Current progress tracker
 ├── scripts/                       # Build tooling
 │   └── build_web.py               # Generates the single-page web companion
-└── web/                           # Generated book-like single-page site (gitignored)
+└── web/                           # Generated book-like single-page site
     ├── index.html
     └── assets/
         └── style.css
@@ -123,7 +123,7 @@ gospel-of-jesus/
   Contains the build script that produces the single-page web companion from the markdown sources.
 
 - **`web/`**  
-  Holds the generated single-page site (index.html + assets). It is produced by `scripts/build_web.py` and is never hand-edited. The folder is gitignored.
+  Holds the generated single-page site (index.html + assets). It is produced by `scripts/build_web.py` and is never hand-edited. The folder is committed so the site is immediately usable after a clone.
 
 ## Methodological Rules
 
@@ -201,7 +201,7 @@ The built `web/` folder is uploaded as a workflow artifact named `gospel-of-jesu
 
 ### Git policy
 
-The generated `web/` folder is listed in `.gitignore`. Run the build script to obtain the artifact. Hosting (GitHub Pages or otherwise) is out of scope for the current build.
+The generated `web/` folder is committed so that a clone of the repository already contains a usable site. Re-run `python scripts/build_web.py` after any change to the markdown sources and commit the updated `web/` files. Hosting (GitHub Pages or otherwise) is out of scope for the current build.
 
 ## License
 
