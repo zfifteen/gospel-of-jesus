@@ -193,6 +193,12 @@ Requires the `markdown-it-py` package.
 
 Markdown remains the source of truth. Re-run the script after any change to `book/` or `references/`. The generated HTML is never edited by hand.
 
+### Continuous integration
+
+A GitHub Actions workflow (`.github/workflows/build-web.yml`) rebuilds the site whenever markdown sources under `book/` or `references/` change, or when the build script itself changes. The workflow also runs on pull requests that touch those paths and can be triggered manually.
+
+The built `web/` folder is uploaded as a workflow artifact named `gospel-of-jesus-web` (retained 30 days). No Pages deployment is performed.
+
 ### Git policy
 
 The generated `web/` folder is listed in `.gitignore`. Run the build script to obtain the artifact. Hosting (GitHub Pages or otherwise) is out of scope for the current build.
