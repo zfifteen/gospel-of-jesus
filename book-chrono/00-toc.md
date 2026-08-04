@@ -11,3 +11,4 @@ This volume presents the teachings and sayings of Jesus in chronological sequenc
 - [6. Rising Conflict and Journey Toward Jerusalem](06-journey-and-rising-conflict.md)
 - [7. Final Week in Jerusalem](07-final-week.md)
 - [8. Words Spoken from the Cross](08-words-from-the-cross.md)
+- [9. Residual Lifetime Sayings in Sequence](09-residual-sequential.md)
