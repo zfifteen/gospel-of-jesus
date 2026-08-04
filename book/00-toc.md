@@ -11,3 +11,4 @@ This volume is organized thematically from the lifetime record of Jesus’ words
 - [6. Discipleship](06-discipleship.md)
 - [7. Conflict](07-conflict.md)
 - [8. Final Days](08-final-days.md)
+- [9. Residual Lifetime Sayings](09-residual-units.md)
