@@ -9,10 +9,16 @@
 </head>
 <body>
 
-  <nav class="site-nav" aria-label="Jump navigation">
-    <div class="nav-inner">
-      <span class="nav-label">Jump:</span>
-      <a href="#preface" class="level-1">Preface</a>
+  <nav class="site-nav" id="site-nav" aria-label="Jump navigation">
+    <div class="nav-bar">
+      <span class="nav-label">Jump to section</span>
+      <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-links">
+        Show navigation
+      </button>
+    </div>
+    <div class="nav-links" id="nav-links">
+      <div class="nav-links-inner">
+        <a href="#preface" class="level-1">Preface</a>
           <a href="#how-to-read-this-volume" class="level-2">How to read this volume</a>
           <a href="#1-core-proclamation" class="level-1">1. Core Proclamation</a>
           <a href="#the-initial-announcement" class="level-2">The Initial Announcement</a>
@@ -140,6 +146,7 @@
           <a href="#4-edge-cases-flagged-for-explicit-exclusion-decision" class="level-2">4. Edge Cases Flagged for Explicit Exclusion Decision</a>
           <a href="#5-summary-statistics-approximate" class="level-2">5. Summary Statistics (Approximate)</a>
           <a href="#6-implications-for-downstream-work" class="level-2">6. Implications for Downstream Work</a>
+      </div>
     </div>
   </nav>
 
@@ -3813,6 +3820,32 @@ The following sayings, previously excluded under the â€œbefore the crucifixionâ€
     Content remains under <a href="https://github.com/zfifteen/gospel-of-jesus/blob/main/LICENSE">CC0 1.0</a>.
     Re-run <code>python scripts/build_web.py</code> after any source change.
   </footer>
+
+  <script>
+  (function () {
+    var nav = document.getElementById('site-nav');
+    var btn = document.getElementById('nav-toggle');
+    var links = document.getElementById('nav-links');
+    if (!nav || !btn) return;
+
+    function setOpen(open) {
+      nav.classList.toggle('is-open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.textContent = open ? 'Hide navigation' : 'Show navigation';
+    }
+
+    btn.addEventListener('click', function () {
+      setOpen(!nav.classList.contains('is-open'));
+    });
+
+    // Close after choosing a link (mobile-friendly)
+    links.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A' && window.matchMedia('(max-width: 899px)').matches) {
+        setOpen(false);
+      }
+    });
+  })();
+  </script>
 
 </body>
 </html>
