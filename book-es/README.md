@@ -28,8 +28,13 @@ No introduce contenido nuevo. No altera las decisiones de inclusión o exclusió
 - [6. Discipulado](06-discipleship.md)
 - [7. Conflicto](07-conflict.md)
 - [8. Días finales](08-final-days.md)
+- [9. Dichos residuales de la vida de Jesús](09-residual-units.md)
 
 ## Notas de traducción
 
 Se prefiere el lenguaje bíblico español establecido cuando mejora la claridad y la familiaridad.  
 La traducción permanece fiel a las selecciones y al encuadre de la compilación inglesa.
+
+## Actualización de integridad absoluta (Issue #52)
+
+Todos los dichos residuales añadidos a la fuente inglesa bajo el Issue #50 han sido traducidos y están presentes en este volumen. Ninguna unidad residual permanece sin traducir.
