@@ -1,6 +1,6 @@
 # Methodology
 
-This document is the governing rule set for the entire project. All content decisions are measured against it. It is considered locked as of the completion of issue #2, with a boundary correction recorded under issue #30.
+This document is the governing rule set for the entire project. All content decisions are measured against it. It is considered locked as of the completion of issue #2, with a boundary correction recorded under issue #30 and the absolute completeness rule recorded under issue #48 / #53.
 
 ---
 
@@ -12,6 +12,9 @@ The chronological cutoff is absolute. Anything narrated as occurring after Jesus
 
 **Boundary correction (Issue #30, 2026-08-03):**  
 The previous formulation “before the crucifixion” was overly restrictive relative to the project’s intent. The corrected rule includes the sayings spoken while Jesus was on the cross and still alive. Everything after the moment of death remains excluded.
+
+**Absolute completeness (Issue #48 / #53, 2026-08-04):**  
+Every inventoried lifetime saying of Jesus must be present in full in every version of the book. There are no exceptions. No deliberate omissions for coherence, length, balance, or any other reason are permitted. The standard applies without qualification to the thematic English book, the chronological English book, and the Spanish translation.
 
 ---
 
@@ -45,6 +48,8 @@ The following are permanently excluded:
 - Later ecclesiastical doctrines, creeds, systematic theologies, or denominational traditions
 - Any attempt to explain the significance of Jesus’ death or resurrection (these events, or reflection upon them, lie outside the chronological boundary once death has occurred)
 
+Lifetime material is never excluded for reasons of coherence, length, or editorial preference.
+
 ---
 
 ## 4. Source Limitation
@@ -69,7 +74,7 @@ The compiled text presents Jesus’ words and actions. It does not speak in the 
 - Paraphrase is permitted only when necessary for clarity or to avoid unnecessary repetition across parallel accounts, and must remain tightly bound to the source.
 
 ### Boundary discipline
-Whenever a passage raises a question about whether it belongs inside or outside the lifetime boundary, the decision is recorded in `references/exclusions.md` with a brief rationale.
+Whenever a passage raises a question about whether it belongs inside or outside the lifetime boundary, the decision is recorded in `references/exclusions.md` with a brief rationale. Coherence or length may not be used as grounds for excluding lifetime speech.
 
 ---
 
@@ -86,9 +91,12 @@ If an item cannot be mapped, it cannot remain in the book.
 This methodology is locked.  
 Future changes to these rules require an explicit decision recorded in the repository (issue or commit) and an update to this document. Silent drift is not permitted.
 
-The boundary correction of Issue #30 is an explicit, recorded change to the chronological rule only; all other rules remain unchanged.
+The boundary correction of Issue #30 and the absolute completeness rule of Issue #48 / #53 are explicit, recorded changes. All other rules remain unchanged.
 
 ---
 
 **Boundary reminder**  
 If a text, idea, or interpretation cannot be shown to belong to the living Jesus (i.e., before or at the moment of death), it does not belong in this project.
+
+**Completeness reminder**  
+Every inventoried lifetime saying must be present in full. There are no exceptions.
